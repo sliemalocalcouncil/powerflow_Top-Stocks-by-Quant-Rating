@@ -1,0 +1,96 @@
+
+name: PowerFlow Intraday Scanner v6 (Trigger)
+
+on:
+  schedule:
+    - cron: "0,30 13-21 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: "장 시간 체크 무시하고 강제 실행"
+        required: false
+        default: "false"
+        type: choice
+        options: ["true", "false"]
+      announce_empty:
+        description: "신호 없을 때도 텔레그램에 요약 알림"
+        required: false
+        default: "false"
+        type: choice
+        options: ["true", "false"]
+      top_n:
+        description: "상위 N개"
+        required: false
+        default: "20"
+      scan_last_n_bars:
+        description: "최근 몇 개 봉을 검사할지 (cron 지연 대비)"
+        required: false
+        default: "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: powerflow-intraday-v6
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    name: "Intraday Scan v6"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run PowerFlow Intraday Scanner v6
+        env:
+          POLYGON_API_KEY:    ${{ secrets.POLYGON_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          FORCE_RUN:          ${{ github.event.inputs.force_run || 'false' }}
+          ANNOUNCE_EMPTY:     ${{ github.event.inputs.announce_empty || 'false' }}
+          TOP_N:              ${{ github.event.inputs.top_n || '20' }}
+          SCAN_LAST_N_BARS:   ${{ github.event.inputs.scan_last_n_bars || '2' }}
+          MAX_CONCURRENT:     '50'
+          RESULTS_DIR:        results
+        run: python powerflow_scanner_v6.py
+
+      - name: Commit scan artifacts
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase --autostash || true
+
+          git add sent_signals.json results/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "변경사항 없음"
+          else
+            git commit -m "chore: intraday scan v6 $(TZ='America/New_York' date +'%Y-%m-%d %H:%M ET') [skip ci]"
+            git push || (git pull --rebase --autostash && git push)
+          fi
+
+      - name: Print latest scan summary
+        if: always()
+        run: |
+          if [ -f results/latest_scan.txt ]; then
+            cat results/latest_scan.txt
+          else
+            echo "결과 파일 없음 (시그널 0건 또는 장시간 외 스킵)"
+          fi
