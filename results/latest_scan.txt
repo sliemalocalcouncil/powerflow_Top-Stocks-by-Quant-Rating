@@ -1,8 +1,8 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-20 12:13 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-04-20 15:10 ET =====
 ticker           bar_et         mode   setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-   STM 2026-04-20 11:30         BOTH          PMH UNKNOWN  44.260      16.164 1.049      2.684         1.414       0.0060
-   HPE 2026-04-20 11:00 CONTINUATION        1stPB UNKNOWN  27.590      13.767 0.978      1.122         1.813       0.0462
-  NVTS 2026-04-20 11:00  SQUEEZE_POP HH, BOX, NR7 UNKNOWN  13.015      13.682 0.872      1.215         1.455       0.0761
-    ON 2026-04-20 11:00  STRONG_CONT        1stPB UNKNOWN  84.730      12.838 0.457      1.177         1.214       0.0280
-  GNRC 2026-04-20 11:30  STRONG_CONT        1stPB UNKNOWN 218.040      12.712 0.038      1.139         1.253       0.0363
-  SANM 2026-04-20 11:00 CONTINUATION        1stPB UNKNOWN 175.960      11.005 0.632      0.987         1.738       0.0144
+  CHTR 2026-04-20 14:00         BOTH        1stPB UNKNOWN 245.830      18.918 2.644      5.479         1.538       0.0401
+   STM 2026-04-20 14:00         BOTH ORB, HH, BOX UNKNOWN  44.680      16.642 0.557      5.535         1.464       0.0127
+   KEY 2026-04-20 14:30         BOTH ORB, HH, BOX UNKNOWN  22.145      14.991 1.832      1.375         0.766       0.0209
+  DAVE 2026-04-20 14:30     REVERSAL        1stPB UNKNOWN 258.865      14.545 0.303      3.680         1.337       0.0489
+   HQY 2026-04-20 14:00 CONTINUATION        1stPB UNKNOWN  86.305      13.998 1.736      1.769         0.835       0.0107
+  PCAR 2026-04-20 14:30  STRONG_CONT        1stPB UNKNOWN 128.480      11.520 1.026      0.817         0.774       0.0202
