@@ -1,8 +1,22 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-20 15:10 ET =====
-ticker           bar_et         mode   setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CHTR 2026-04-20 14:00         BOTH        1stPB UNKNOWN 245.830      18.918 2.644      5.479         1.538       0.0401
-   STM 2026-04-20 14:00         BOTH ORB, HH, BOX UNKNOWN  44.680      16.642 0.557      5.535         1.464       0.0127
-   KEY 2026-04-20 14:30         BOTH ORB, HH, BOX UNKNOWN  22.145      14.991 1.832      1.375         0.766       0.0209
-  DAVE 2026-04-20 14:30     REVERSAL        1stPB UNKNOWN 258.865      14.545 0.303      3.680         1.337       0.0489
-   HQY 2026-04-20 14:00 CONTINUATION        1stPB UNKNOWN  86.305      13.998 1.736      1.769         0.835       0.0107
-  PCAR 2026-04-20 14:30  STRONG_CONT        1stPB UNKNOWN 128.480      11.520 1.026      0.817         0.774       0.0202
+===== PowerFlow Intraday v6 (Trigger)  2026-04-21 10:49 ET =====
+ticker           bar_et         mode     setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+   PBI 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN  14.6600      23.741  6.986     10.792        11.564       0.0288
+  SCHL 2026-04-21 09:30 CONTINUATION            NR7 UNKNOWN  42.4150      23.286  9.191      5.712         5.827       0.0551
+   HPE 2026-04-21 10:00         BOTH            ORB UNKNOWN  29.3850      21.123  2.290      2.665         2.529       0.0505
+    DY 2026-04-21 10:00 CONTINUATION VWAP, PMH, BOX UNKNOWN 413.9500      19.026  1.263      4.605         2.281       0.0065
+  SPXC 2026-04-21 09:30     REVERSAL            NR7 UNKNOWN 223.3000      18.253  4.928      2.859         3.196       0.0220
+  NVTS 2026-04-21 10:00     REVERSAL            ORB UNKNOWN  16.1865      17.653 -0.606      6.108         6.836       0.1204
+  DELL 2026-04-21 10:00         BOTH       ORB, PMH UNKNOWN 210.5048      17.183  0.953      1.502         1.496       0.0225
+   NUE 2026-04-21 09:30 CONTINUATION            NR7 UNKNOWN 207.9700      17.171  2.110      1.731         1.817       0.0262
+  ILMN 2026-04-21 09:30  SQUEEZE_POP            NR7 BIOTECH 135.9550      16.254  1.413      1.766         1.900       0.0207
+  CHTR 2026-04-21 09:30         BOTH            NR7 UNKNOWN 247.5300      15.825  1.924      1.658         1.732       0.0061
+   AMD 2026-04-21 09:30 CONTINUATION            NR7   SEMIS 280.3300      14.753  2.960      0.912         0.899       0.0108
+  DAVE 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN 277.3600      14.613  0.139      2.069         2.072       0.0273
+   ZTO 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN  25.7000      14.493 -1.566      3.007         3.293       0.0059
+  AMSC 2026-04-21 09:30 CONTINUATION            NR7 UNKNOWN  41.3850      13.123  1.463      1.058         1.164       0.0006
+   CLS 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN 403.1000      12.723  2.468      0.963         1.045      -0.0047
+   STT 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN 154.8400      12.596  0.371      1.258         1.379       0.0290
+  EWBC 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN 119.5250      12.187  0.348      1.966         2.157       0.0042
+   ATI 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN 163.8450      11.549 -3.122      2.262         2.221      -0.0017
+   KEY 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN  22.3850      10.838 -0.472      1.358         1.452       0.0052
+  JAZZ 2026-04-21 09:30  SQUEEZE_POP            NR7 UNKNOWN 199.7600      10.825 -2.507      2.265         2.464      -0.0161
