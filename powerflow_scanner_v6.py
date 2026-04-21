@@ -1,4 +1,3 @@
-
 """
 PowerFlow Scanner v6 (Intraday Trigger Edition)
 ==============================================
@@ -1371,7 +1370,12 @@ def send_telegram(text: str) -> bool:
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip()
     if not token or not chat_id:
-        LOGGER.info("텔레그램 환경변수 없음 → 전송 생략")
+        missing = []
+        if not token:
+            missing.append("TELEGRAM_BOT_TOKEN")
+        if not chat_id:
+            missing.append("TELEGRAM_CHAT_ID")
+        LOGGER.warning("텔레그램 환경변수 없음 [%s] → 전송 생략", ", ".join(missing))
         return False
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     try:
@@ -1382,9 +1386,17 @@ def send_telegram(text: str) -> bool:
             "disable_web_page_preview": True,
         }, timeout=20)
         resp.raise_for_status()
+        LOGGER.info("텔레그램 전송 성공 (chat_id=%s, %d chars)", chat_id, len(text))
         return True
     except requests.RequestException as exc:
-        LOGGER.warning("텔레그램 전송 실패: %s", exc)
+        body = ""
+        resp_obj = getattr(exc, "response", None)
+        if resp_obj is not None:
+            try:
+                body = f" | status={resp_obj.status_code} body={resp_obj.text[:300]}"
+            except Exception:
+                pass
+        LOGGER.warning("텔레그램 전송 실패: %s%s", exc, body)
         return False
 
 
@@ -1491,9 +1503,24 @@ def main() -> None:
     scan_last_n = int(os.getenv("SCAN_LAST_N_BARS", "2"))
     results_dir = Path(os.getenv("RESULTS_DIR", "results"))
 
+    LOGGER.info(
+        "설정 | FORCE_RUN=%s | ANNOUNCE_EMPTY=%s | TG_TOKEN=%s | TG_CHAT=%s",
+        force_run,
+        announce_empty,
+        "set" if os.getenv("TELEGRAM_BOT_TOKEN", "").strip() else "MISSING",
+        "set" if os.getenv("TELEGRAM_CHAT_ID", "").strip() else "MISSING",
+    )
+
     if not force_run and not in_market_hours(buffer_min=5):
         now_et = pd.Timestamp.now(tz=SESSION_TZ).strftime("%Y-%m-%d %H:%M %Z")
         LOGGER.info("정규장 시간이 아님 → 스캔 스킵 (%s)", now_et)
+        if announce_empty:
+            send_telegram(
+                f"🕒 <b>PowerFlow Intraday v6</b>\n"
+                f"⏰ {html.escape(now_et)}\n"
+                f"정규장 시간이 아님 → 스캔 스킵\n"
+                f"<i>(테스트: 텔레그램 연결 OK)</i>"
+            )
         return
 
     tickers, ticker_sector_map = load_tickers(DEFAULT_TICKERS_FILE)
