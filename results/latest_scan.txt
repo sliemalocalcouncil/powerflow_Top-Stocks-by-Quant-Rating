@@ -1,7 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-21 13:35 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   PBI 2026-04-21 12:30         BOTH       VWAP UNKNOWN  14.615      16.789  0.699      5.194         6.405       0.0318
-  EWBC 2026-04-21 12:30         BOTH       VWAP UNKNOWN 119.610      14.947  0.528      2.026         2.312       0.0111
-  CRDO 2026-04-21 12:30 CONTINUATION      1stPB UNKNOWN 180.165      11.023  0.020      1.122         1.103       0.0088
-  IBKR 2026-04-21 12:30  SQUEEZE_POP        NR7 UNKNOWN  80.290       6.407 -1.188      1.610         1.113      -0.0067
-   KGC 2026-04-21 13:00  SQUEEZE_POP        NR7 UNKNOWN  32.440       6.084 -0.909      1.767         1.217      -0.0462
+===== PowerFlow Intraday v6 (Trigger)  2026-04-21 15:16 ET =====
+ticker           bar_et         mode  setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  EWBC 2026-04-21 14:30 CONTINUATION ORB, HH, SQ UNKNOWN 120.65      18.485  1.443      2.773         2.829       0.0178
+   NUE 2026-04-21 14:30     REVERSAL   VWAP, NR7 UNKNOWN 208.65      14.980  1.360      1.826         1.660       0.0338
+  CRDO 2026-04-21 14:30 CONTINUATION       1stPB UNKNOWN 182.18      11.946  0.011      1.411         1.179       0.0180
+    ON 2026-04-21 14:00         BOTH       1stPB UNKNOWN  86.48       9.761  0.003      0.831         1.163       0.0149
+   HWC 2026-04-21 14:00  SQUEEZE_POP         NR7 UNKNOWN  68.60       9.320 -1.236      2.453         1.765      -0.0033
