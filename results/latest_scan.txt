@@ -1,6 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-22 13:33 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  EXEL 2026-04-22 13:00  STRONG_CONT    ORB, HH UNKNOWN  47.345      17.439  2.093      2.747         1.816       0.0164
-   NUE 2026-04-22 12:30 CONTINUATION         HH UNKNOWN 214.170      11.953  0.462      1.612         1.454       0.0107
-  LUMN 2026-04-22 13:00  SQUEEZE_POP   BOX, NR7 UNKNOWN   8.865      10.488  0.700      1.219         0.626      -0.0094
-  MYRG 2026-04-22 12:30  SQUEEZE_POP         SQ UNKNOWN 330.640       6.322 -0.140      1.763         1.085      -0.0285
+===== PowerFlow Intraday v6 (Trigger)  2026-04-22 15:18 ET =====
+ticker           bar_et        mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  AMSC 2026-04-22 14:30        BOTH        BOX UNKNOWN  46.685      17.865  0.878      3.304         2.230       0.0701
+  STRL 2026-04-22 14:00        BOTH    BOX, SQ UNKNOWN 483.720      15.253  2.991      1.323         0.844      -0.0046
+  COLB 2026-04-22 14:30 SQUEEZE_POP        NR7 UNKNOWN  28.960       8.547 -1.291      2.331         1.046      -0.0172
