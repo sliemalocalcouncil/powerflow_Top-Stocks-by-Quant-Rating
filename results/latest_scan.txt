@@ -1,8 +1,6 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-22 12:10 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-04-22 13:33 ET =====
 ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  AMSC 2026-04-22 11:00  STRONG_CONT      1stPB UNKNOWN  46.055      17.164  1.244      1.996         2.753       0.0565
-   PBI 2026-04-22 11:00 CONTINUATION      1stPB UNKNOWN  15.370      16.354  0.031      3.450         3.239       0.0304
-  NVTS 2026-04-22 11:00  STRONG_CONT        PMH UNKNOWN  17.485      15.431  0.629      1.652         3.422       0.0797
-   NUE 2026-04-22 11:00         BOTH    ORB, HH UNKNOWN 213.260      14.888  0.988      1.527         1.361       0.0056
-  EWBC 2026-04-22 11:00         BOTH        BOX UNKNOWN 123.620      13.653  0.527      1.553         4.700       0.0027
-   STM 2026-04-22 11:30  SQUEEZE_POP         SQ UNKNOWN  43.980       9.005 -1.189      2.149         1.316      -0.0209
+  EXEL 2026-04-22 13:00  STRONG_CONT    ORB, HH UNKNOWN  47.345      17.439  2.093      2.747         1.816       0.0164
+   NUE 2026-04-22 12:30 CONTINUATION         HH UNKNOWN 214.170      11.953  0.462      1.612         1.454       0.0107
+  LUMN 2026-04-22 13:00  SQUEEZE_POP   BOX, NR7 UNKNOWN   8.865      10.488  0.700      1.219         0.626      -0.0094
+  MYRG 2026-04-22 12:30  SQUEEZE_POP         SQ UNKNOWN 330.640       6.322 -0.140      1.763         1.085      -0.0285
