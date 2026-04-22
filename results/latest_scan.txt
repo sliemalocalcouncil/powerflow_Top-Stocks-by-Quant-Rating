@@ -1,21 +1,8 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-22 10:48 ET =====
-ticker           bar_et        mode     setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-    MU 2026-04-22 10:00    REVERSAL ORB, VWAP, PMH   SEMIS 474.3000      21.119  3.730      1.627         1.243       0.0199
-   AMD 2026-04-22 10:00    REVERSAL ORB, VWAP, PMH   SEMIS 295.1818      19.915  2.689      1.655         1.196       0.0090
-   PBI 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN  15.1200      17.331  1.292      2.737         3.132       0.0182
-  RCUS 2026-04-22 10:00  STRONG_REV            ORB UNKNOWN  28.0650      17.155 -0.334      5.563         4.370       0.1180
-  DAVE 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN 281.6500      13.357  0.257      1.641         1.727       0.0081
-  MYRG 2026-04-22 09:30 SQUEEZE_POP        SQ, NR7 UNKNOWN 338.8500      12.608 -1.876      1.475         1.491      -0.0004
-   AIG 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN  76.0000      12.092 -0.870      3.668         3.895      -0.0211
-  COLB 2026-04-22 09:30 STRONG_CONT            NR7 UNKNOWN  29.3200      11.584  1.667      1.400         1.421       0.0007
-   NUE 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN 212.1150      11.268  0.755      1.385         1.347       0.0048
-    XP 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN  20.6500      10.882  2.502      0.741         0.790      -0.0019
-  SPXC 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN 220.6500      10.655  1.263      1.000         1.148       0.0081
-  IBKR 2026-04-22 10:00 SQUEEZE_POP            NR7 UNKNOWN  77.9650      10.588 -2.266      2.759         3.300      -0.0058
-  LITE 2026-04-22 10:00    REVERSAL           VWAP UNKNOWN 840.9700      10.219  2.852      1.048         0.941      -0.0151
-    GL 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN 150.6500      10.173  0.241      2.195         2.200      -0.0067
-  EXEL 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN  46.3200      10.067  0.012      1.293         1.368      -0.0002
-   ATI 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN 155.1200       9.720 -1.313      1.836         2.001      -0.0363
-   VLY 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN  13.4400       8.765 -0.498      1.602         1.733      -0.0132
-   HBM 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN  24.5200       7.486  1.098      0.747         0.795      -0.0033
-  SANM 2026-04-22 09:30 SQUEEZE_POP            NR7 UNKNOWN 173.8300       6.173 -0.325      1.239         1.356      -0.0103
+===== PowerFlow Intraday v6 (Trigger)  2026-04-22 12:10 ET =====
+ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  AMSC 2026-04-22 11:00  STRONG_CONT      1stPB UNKNOWN  46.055      17.164  1.244      1.996         2.753       0.0565
+   PBI 2026-04-22 11:00 CONTINUATION      1stPB UNKNOWN  15.370      16.354  0.031      3.450         3.239       0.0304
+  NVTS 2026-04-22 11:00  STRONG_CONT        PMH UNKNOWN  17.485      15.431  0.629      1.652         3.422       0.0797
+   NUE 2026-04-22 11:00         BOTH    ORB, HH UNKNOWN 213.260      14.888  0.988      1.527         1.361       0.0056
+  EWBC 2026-04-22 11:00         BOTH        BOX UNKNOWN 123.620      13.653  0.527      1.553         4.700       0.0027
+   STM 2026-04-22 11:30  SQUEEZE_POP         SQ UNKNOWN  43.980       9.005 -1.189      2.149         1.316      -0.0209
