@@ -1,10 +1,13 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-23 14:42 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CPRX 2026-04-23 14:00 CONTINUATION        BOX UNKNOWN  27.180      17.760  0.547      5.014         2.287       0.0494
-    ON 2026-04-23 13:30 CONTINUATION      1stPB UNKNOWN  97.530      15.121  0.293      3.144         2.670       0.0560
-   STM 2026-04-23 13:30 CONTINUATION        ORB UNKNOWN  50.555      15.092  0.680      4.512         2.583       0.0554
-  GNRC 2026-04-23 14:00  STRONG_CONT        BOX UNKNOWN 218.610      13.619  1.827      1.258         0.699       0.0165
-   VLY 2026-04-23 13:30 CONTINUATION      1stPB UNKNOWN  13.685      13.249  0.379      2.878         3.705       0.0032
-  CHRW 2026-04-23 13:30 CONTINUATION 1stPB, NR7 UNKNOWN 183.750       9.508  0.824      1.194         0.726       0.0036
-  EWBC 2026-04-23 14:00     REVERSAL      1stPB UNKNOWN 123.070       8.409 -0.072      0.981         1.179       0.0077
-  LITE 2026-04-23 13:30  SQUEEZE_POP         SQ UNKNOWN 846.030       7.917  1.308      1.494         0.650      -0.0043
+===== PowerFlow Intraday v6 (Trigger)  2026-04-24 10:46 ET =====
+ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+   AMD 2026-04-24 10:00     REVERSAL       VWAP   SEMIS 346.3400      21.127  2.289      2.663         2.951       0.0282
+  SANM 2026-04-24 10:00  STRONG_CONT   ORB, PMH UNKNOWN 186.7600      20.104  1.429      2.770         5.769       0.0147
+  COLB 2026-04-24 10:00     REVERSAL       VWAP UNKNOWN  29.2900      16.877  3.548      4.055         3.673       0.0080
+    MU 2026-04-24 10:00     REVERSAL  VWAP, PMH   SEMIS 501.9800      15.917  2.269      1.037         1.107       0.0120
+   FAF 2026-04-24 09:30         BOTH        NR7 UNKNOWN  70.6700      14.056  1.250      1.725         1.732       0.0154
+  CHTR 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN 199.0350      13.061 -9.837      9.588        10.032      -0.1458
+  CPRX 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN  27.1862      12.446 -1.537      2.477         2.445      -0.0168
+    GL 2026-04-24 09:30 CONTINUATION        NR7 UNKNOWN 154.8800      11.627  0.532      1.681         1.685       0.0016
+   HBM 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN  23.9400       8.796 -1.354      1.533         1.379      -0.0156
+   BAC 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN  52.3950       7.974  1.183      0.566         0.572       0.0014
+  GNRC 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN 220.1100       7.259 -0.845      1.120         1.089      -0.0024
