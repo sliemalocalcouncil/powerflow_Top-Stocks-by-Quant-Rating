@@ -1,13 +1,8 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-24 10:46 ET =====
-ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   AMD 2026-04-24 10:00     REVERSAL       VWAP   SEMIS 346.3400      21.127  2.289      2.663         2.951       0.0282
-  SANM 2026-04-24 10:00  STRONG_CONT   ORB, PMH UNKNOWN 186.7600      20.104  1.429      2.770         5.769       0.0147
-  COLB 2026-04-24 10:00     REVERSAL       VWAP UNKNOWN  29.2900      16.877  3.548      4.055         3.673       0.0080
-    MU 2026-04-24 10:00     REVERSAL  VWAP, PMH   SEMIS 501.9800      15.917  2.269      1.037         1.107       0.0120
-   FAF 2026-04-24 09:30         BOTH        NR7 UNKNOWN  70.6700      14.056  1.250      1.725         1.732       0.0154
-  CHTR 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN 199.0350      13.061 -9.837      9.588        10.032      -0.1458
-  CPRX 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN  27.1862      12.446 -1.537      2.477         2.445      -0.0168
-    GL 2026-04-24 09:30 CONTINUATION        NR7 UNKNOWN 154.8800      11.627  0.532      1.681         1.685       0.0016
-   HBM 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN  23.9400       8.796 -1.354      1.533         1.379      -0.0156
-   BAC 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN  52.3950       7.974  1.183      0.566         0.572       0.0014
-  GNRC 2026-04-24 09:30  SQUEEZE_POP        NR7 UNKNOWN 220.1100       7.259 -0.845      1.120         1.089      -0.0024
+===== PowerFlow Intraday v6 (Trigger)  2026-04-24 12:06 ET =====
+ticker           bar_et         mode setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+   AMD 2026-04-24 11:30 CONTINUATION    ORB, HH   SEMIS 351.0100      17.943 1.843      1.802         2.540       0.0347
+  SNPS 2026-04-24 11:00  STRONG_CONT    ORB, HH UNKNOWN 497.9900      17.146 1.237      1.693         2.216       0.0561
+   FAF 2026-04-24 11:30 CONTINUATION        BOX UNKNOWN  70.7900      14.589 1.267      2.710         1.715       0.0095
+  LITE 2026-04-24 11:00  STRONG_CONT    HH, BOX UNKNOWN 876.5591      13.712 1.401      1.350         0.709       0.0424
+   CLS 2026-04-24 11:30  STRONG_CONT      1stPB UNKNOWN 419.1700      13.275 1.418      0.995         0.941       0.0274
+   ASX 2026-04-24 11:30 CONTINUATION      1stPB UNKNOWN  32.1200      12.934 0.822      1.359         1.392       0.0127
