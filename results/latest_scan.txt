@@ -1,4 +1,4 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-24 13:31 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  SANM 2026-04-24 12:30 CONTINUATION        BOX UNKNOWN 192.88      15.512  0.844      2.753         3.110       0.0403
-    ON 2026-04-24 13:00 CONTINUATION      1stPB UNKNOWN  99.37       9.283 -0.199      0.559         1.353      -0.0061
+===== PowerFlow Intraday v6 (Trigger)  2026-04-24 14:57 ET =====
+ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+    LC 2026-04-24 14:00         BOTH   ORB, BOX UNKNOWN  17.57      16.976 1.472      4.437         1.618       0.0161
+   AMD 2026-04-24 13:30 CONTINUATION        ORB   SEMIS 348.86      14.494 0.448      1.616         2.393       0.0271
