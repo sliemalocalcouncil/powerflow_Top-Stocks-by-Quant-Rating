@@ -1,5 +1,10 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-24 15:55 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  TIGO 2026-04-24 14:30         BOTH         SQ UNKNOWN  84.19      14.287 2.483      1.703         0.679      -0.0114
-   AMD 2026-04-24 15:00 CONTINUATION      1stPB   SEMIS 346.32      13.598 0.704      1.719         2.265       0.0199
-   HPE 2026-04-24 15:00         BOTH        BOX UNKNOWN  28.23       9.986 1.558      0.977         0.741      -0.0103
+===== PowerFlow Intraday v6 (Trigger)  2026-04-27 11:09 ET =====
+ticker           bar_et        mode       setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+   HQY 2026-04-27 10:30        BOTH            1stPB UNKNOWN  85.2150      16.075  2.165      2.270         0.926       0.0414
+  CHRW 2026-04-27 10:30 STRONG_CONT ORB, HH, BOX, SQ UNKNOWN 185.4825      15.032  2.021      0.946         0.709       0.0133
+  RELY 2026-04-27 10:00    REVERSAL        VWAP, BOX UNKNOWN  21.2350      14.930  2.418      1.097         0.868       0.0080
+    MU 2026-04-27 10:30 SQUEEZE_POP              NR7   SEMIS 517.4500       9.902 -0.147      0.913         1.182       0.0151
+  GNRC 2026-04-27 10:00 SQUEEZE_POP               SQ UNKNOWN 215.1850       8.106 -1.507      1.359         2.367      -0.0430
+  SANM 2026-04-27 10:30 SQUEEZE_POP              NR7 UNKNOWN 185.5100       7.884 -0.633      0.950         3.459      -0.0597
+  VSAT 2026-04-27 10:00 SQUEEZE_POP               SQ UNKNOWN  59.2000       7.796 -2.722      1.277         1.390      -0.0468
+    RF 2026-04-27 10:30 SQUEEZE_POP              NR7 UNKNOWN  28.1800       7.353  0.945      0.401         0.535       0.0149
