@@ -1,7 +1,14 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-27 13:08 ET =====
-ticker           bar_et         mode   setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CPRX 2026-04-27 12:00  SQUEEZE_POP HH, BOX, NR7 UNKNOWN  30.070      20.315 -6.202     24.917        10.146       0.0921
-  ARCB 2026-04-27 12:00         BOTH      ORB, HH UNKNOWN 125.250      17.437  0.903      2.357         1.591       0.0172
-  EWBC 2026-04-27 12:30 CONTINUATION        1stPB UNKNOWN 124.440      11.336  1.043      1.803         0.710       0.0087
-  GNRC 2026-04-27 12:30  STRONG_CONT         VWAP UNKNOWN 217.975      11.130  0.881      1.840         1.959      -0.0319
-  PCAR 2026-04-27 12:00   STRONG_REV    1stPB, SQ UNKNOWN 127.675       9.948  0.175      0.764         1.202       0.0166
+===== PowerFlow Intraday v6 (Trigger)  2026-04-28 11:28 ET =====
+ticker           bar_et         mode          setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  CECO 2026-04-28 10:30 CONTINUATION      VWAP, BOX, NR7 UNKNOWN  70.3300      23.965  7.103      9.184         7.511       0.0423
+   NUE 2026-04-28 10:30         BOTH       VWAP, BOX, SQ UNKNOWN 220.4500      21.692  2.521      3.363         3.127       0.0055
+   CNC 2026-04-28 10:30 CONTINUATION ORB, VWAP, PMH, BOX UNKNOWN  46.5350      20.922  1.268      4.656         5.998       0.0428
+  NVST 2026-04-28 10:30     REVERSAL                  SQ UNKNOWN  26.5850      16.559  2.623      4.462         3.884      -0.0021
+    LC 2026-04-28 10:00  SQUEEZE_POP                 NR7 UNKNOWN  17.2750      12.871 -3.624     13.387         9.269      -0.0563
+    MU 2026-04-28 10:30  SQUEEZE_POP                 NR7   SEMIS 494.9175      11.013 -0.307      2.044         1.365      -0.0130
+  LITE 2026-04-28 10:30  SQUEEZE_POP                 NR7 UNKNOWN 794.1100       9.889  0.629      2.315         1.270      -0.0200
+  NBIS 2026-04-28 10:30  SQUEEZE_POP                 NR7 UNKNOWN 134.7733       7.684 -0.375      1.936         0.969      -0.0221
+  AMSC 2026-04-28 10:30  SQUEEZE_POP                 NR7 UNKNOWN  46.4950       6.357  0.559      1.908         1.285      -0.0254
+  DELL 2026-04-28 10:30  SQUEEZE_POP                 NR7 UNKNOWN 203.7750       6.213  0.177      1.226         0.909      -0.0254
+  GNRC 2026-04-28 10:30  SQUEEZE_POP                 NR7 UNKNOWN 212.4850       6.208 -0.025      1.350         1.745      -0.0144
+   ASX 2026-04-28 10:30  SQUEEZE_POP                 NR7 UNKNOWN  29.8500       6.103  0.698      1.249         1.657      -0.0009
