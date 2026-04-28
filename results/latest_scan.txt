@@ -1,9 +1,3 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-28 13:14 ET =====
-ticker           bar_et         mode   setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   NUE 2026-04-28 12:30  STRONG_CONT PMH, HH, BOX UNKNOWN 225.760      19.386  1.755      3.683         3.122       0.0299
-  CECO 2026-04-28 12:30 CONTINUATION        1stPB UNKNOWN  70.920      18.312  1.297      5.189         7.572       0.0513
-  SANM 2026-04-28 12:00         BOTH         VWAP UNKNOWN 213.770      17.706  1.271      3.903         6.360       0.0478
-  RELY 2026-04-28 12:30         BOTH          BOX UNKNOWN  21.535      16.727  2.628      2.235         1.029       0.0140
-  ENVA 2026-04-28 12:00  STRONG_CONT      ORB, HH UNKNOWN 175.120      16.669  0.506      3.792         1.868       0.0136
-  SPXC 2026-04-28 12:30  SQUEEZE_POP          NR7 UNKNOWN 215.950      10.025  0.357      2.456         1.527      -0.0150
-  PCAR 2026-04-28 12:30  SQUEEZE_POP          NR7 UNKNOWN 119.375       9.625 -0.953      3.306         3.764      -0.0652
+===== PowerFlow Intraday v6 (Trigger)  2026-04-28 15:08 ET =====
+ticker           bar_et        mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  CHRW 2026-04-28 14:00 STRONG_CONT    ORB, HH UNKNOWN 189.685      14.511 0.851      1.541          1.43       0.0078
