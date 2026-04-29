@@ -1,4 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-29 13:05 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  GNRC 2026-04-29 12:00 CONTINUATION      1stPB UNKNOWN 249.13      15.265  0.240      5.879         4.995       0.0227
-   CNC 2026-04-29 12:00 CONTINUATION      1stPB UNKNOWN  53.54      15.224 -0.356      2.014         4.671       0.0592
+===== PowerFlow Intraday v6 (Trigger)  2026-04-29 14:56 ET =====
+ticker           bar_et        mode  setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  GNRC 2026-04-29 13:30        BOTH     HH, BOX UNKNOWN 255.880      17.580 1.390      2.917         4.444       0.0487
+   STM 2026-04-29 14:00        BOTH VWAP, 1stPB UNKNOWN  52.420      14.230 0.798      1.071         1.272       0.0152
+  AMSC 2026-04-29 13:30        BOTH        VWAP UNKNOWN  47.395      12.713 1.765      1.693         0.789      -0.0092
+   AMD 2026-04-29 14:00 STRONG_CONT       1stPB   SEMIS 335.775      12.471 0.564      1.259         0.976       0.0286
+   STT 2026-04-29 13:30 SQUEEZE_POP         NR7 UNKNOWN 150.530       8.256 2.006      1.237         0.777      -0.0145
