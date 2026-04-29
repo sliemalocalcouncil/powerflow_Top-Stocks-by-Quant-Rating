@@ -1,7 +1,4 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-29 11:17 ET =====
-ticker           bar_et        mode         setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-    ON 2026-04-29 10:00    REVERSAL ORB, VWAP, PMH, HH UNKNOWN 100.78      20.165  3.888      1.509         1.210       0.0106
-   STM 2026-04-29 10:00        BOTH                ORB UNKNOWN  53.02      17.360  1.808      1.424         1.179       0.0246
-   AMD 2026-04-29 10:30 STRONG_CONT            ORB, HH   SEMIS 332.79      15.646  2.297      1.555         0.991       0.0160
-  CSTM 2026-04-29 10:30 SQUEEZE_POP                NR7 UNKNOWN  33.00      14.193 -1.072      2.247         2.315       0.0578
-  BPOP 2026-04-29 10:30 SQUEEZE_POP                NR7 UNKNOWN 149.32       8.886 -3.036      2.490         1.190      -0.0069
+===== PowerFlow Intraday v6 (Trigger)  2026-04-29 13:05 ET =====
+ticker           bar_et         mode setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  GNRC 2026-04-29 12:00 CONTINUATION      1stPB UNKNOWN 249.13      15.265  0.240      5.879         4.995       0.0227
+   CNC 2026-04-29 12:00 CONTINUATION      1stPB UNKNOWN  53.54      15.224 -0.356      2.014         4.671       0.0592
