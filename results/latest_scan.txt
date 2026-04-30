@@ -1,6 +1,9 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-04-30 14:17 ET =====
-ticker           bar_et         mode     setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  LITE 2026-04-30 13:30         BOTH   ORB, PMH, HH UNKNOWN 916.0199      15.313  1.452      1.945         0.996       0.0125
-  GNRC 2026-04-30 13:30 CONTINUATION VWAP, PMH, BOX UNKNOWN 258.5400      14.437  0.652      2.301         1.943      -0.0010
-  DELL 2026-04-30 13:00  SQUEEZE_POP             SQ UNKNOWN 206.1700       8.996  1.582      0.886         0.722      -0.0191
-   CNC 2026-04-30 13:30  SQUEEZE_POP            NR7 UNKNOWN  53.0599       6.690 -0.907      1.430         1.436      -0.0186
+===== PowerFlow Intraday v6 (Trigger)  2026-04-30 15:57 ET =====
+ticker           bar_et         mode        setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  RCUS 2026-04-30 15:00 CONTINUATION ORB, HH, BOX, NR7 UNKNOWN  25.605      21.752 20.090      5.490         0.608       0.0342
+  STRL 2026-04-30 15:00  STRONG_CONT                HH UNKNOWN 520.430      20.348  2.580      2.918         1.371       0.0608
+   STT 2026-04-30 15:00  SQUEEZE_POP          BOX, NR7 UNKNOWN 153.170      17.956  6.176      4.054         1.238       0.0043
+  IMNM 2026-04-30 15:00   STRONG_REV          ORB, BOX UNKNOWN  23.350      14.807  0.569      5.484         1.987       0.0044
+  GNRC 2026-04-30 15:00 CONTINUATION             1stPB UNKNOWN 258.240      13.205  1.140      2.411         2.038      -0.0040
+  DELL 2026-04-30 15:00  STRONG_CONT             1stPB UNKNOWN 208.390      11.318  1.214      1.024         0.813      -0.0131
+  SNPS 2026-04-30 14:30 CONTINUATION             1stPB UNKNOWN 480.575       9.527 -0.128      1.399         0.647      -0.0120
