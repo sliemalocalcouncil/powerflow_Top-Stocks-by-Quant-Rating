@@ -1,4 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-01 14:06 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CSTM 2026-05-01 13:30 CONTINUATION      1stPB UNKNOWN 32.082      15.723 1.666      3.481         1.419       0.0301
-   HPE 2026-05-01 13:00         BOTH      1stPB UNKNOWN 28.825      10.703 0.723      1.521         0.843      -0.0020
+===== PowerFlow Intraday v6 (Trigger)  2026-05-01 15:48 ET =====
+ticker           bar_et         mode   setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+   CLS 2026-05-01 15:00   STRONG_REV ORB, HH, BOX UNKNOWN 422.550      15.646 -0.278      2.157         1.005       0.0373
+   STM 2026-05-01 15:00         BOTH           HH UNKNOWN  56.380      14.866  2.102      1.686         0.538       0.0291
+  RELY 2026-05-01 15:00  STRONG_CONT          BOX UNKNOWN  22.590      14.132  2.561      1.026         0.722       0.0259
+    DY 2026-05-01 14:30 CONTINUATION  VWAP, 1stPB UNKNOWN 423.510      12.907  1.639      1.952         1.054       0.0194
+  LUMN 2026-05-01 15:00 CONTINUATION        1stPB UNKNOWN   9.345      11.364  0.903      0.779         1.038       0.0503
