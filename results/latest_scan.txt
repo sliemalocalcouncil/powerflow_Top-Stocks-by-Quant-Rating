@@ -1,5 +1,4 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-01 11:33 ET =====
-ticker           bar_et        mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  LUMN 2026-05-01 10:30 STRONG_CONT      1stPB UNKNOWN   9.075      14.951 1.634      1.493         1.032       0.0229
-  SPXC 2026-05-01 10:30 SQUEEZE_POP  VWAP, NR7 UNKNOWN 212.720      14.757 1.856      4.911         4.182       0.0261
-  RELY 2026-05-01 10:30        BOTH      1stPB UNKNOWN  22.520      14.456 1.069      1.533         0.840       0.0258
+===== PowerFlow Intraday v6 (Trigger)  2026-05-01 13:00 ET =====
+ticker           bar_et        mode        setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  CRDO 2026-05-01 12:00 SQUEEZE_POP ORB, PMH, HH, NR7 UNKNOWN 179.5401      16.219 -0.294      3.424         0.605       0.0227
+  SPXC 2026-05-01 12:00 SQUEEZE_POP               NR7 UNKNOWN 206.8250       7.879 -0.938      2.866         3.887      -0.0030
