@@ -1,14 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-01 10:18 ET =====
-ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-    MU 2026-05-01 09:30  SQUEEZE_POP         SQ   SEMIS 541.6380      18.867  4.347      1.268         1.271       0.0583
-  TIGO 2026-05-01 09:30 CONTINUATION        NR7 UNKNOWN  85.0000      12.410  2.403      1.021         1.008       0.0014
-  SANM 2026-05-01 09:30  SQUEEZE_POP        NR7 UNKNOWN 225.1000      12.310  1.909      0.529         0.613       0.0273
-  IBKR 2026-04-30 16:00 CONTINUATION      1stPB UNKNOWN  79.8400      12.282 -0.258      3.385         0.881       0.0255
-  STRL 2026-05-01 09:30  SQUEEZE_POP        NR7 UNKNOWN 525.7950      11.745  1.801      0.751         0.787       0.0090
-   STT 2026-04-30 16:00         BOTH      1stPB UNKNOWN 152.8400      11.207  0.107      6.678         1.236       0.0017
-  DELL 2026-04-30 16:00 CONTINUATION      1stPB UNKNOWN 208.5225      10.686 -0.326      2.351         0.845      -0.0130
-    ON 2026-05-01 09:30  SQUEEZE_POP        NR7 UNKNOWN 101.9000      10.307  1.701      0.505         0.497       0.0100
-  EWBC 2026-05-01 09:30  SQUEEZE_POP        NR7 UNKNOWN 127.3050       8.740  1.169      0.583         0.646       0.0092
-   BMY 2026-05-01 09:30  SQUEEZE_POP        NR7 UNKNOWN  58.4900       8.624 -1.259      2.018         2.128      -0.0255
-   BAC 2026-04-30 16:00 CONTINUATION      1stPB UNKNOWN  53.4900       7.648  0.058      1.347         0.695       0.0036
-    RF 2026-05-01 09:30  SQUEEZE_POP        NR7 UNKNOWN  28.4850       6.657  1.173      0.678         0.574      -0.0012
+===== PowerFlow Intraday v6 (Trigger)  2026-05-01 11:33 ET =====
+ticker           bar_et        mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  LUMN 2026-05-01 10:30 STRONG_CONT      1stPB UNKNOWN   9.075      14.951 1.634      1.493         1.032       0.0229
+  SPXC 2026-05-01 10:30 SQUEEZE_POP  VWAP, NR7 UNKNOWN 212.720      14.757 1.856      4.911         4.182       0.0261
+  RELY 2026-05-01 10:30        BOTH      1stPB UNKNOWN  22.520      14.456 1.069      1.533         0.840       0.0258
