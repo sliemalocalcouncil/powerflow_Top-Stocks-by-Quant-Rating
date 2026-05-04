@@ -1,7 +1,10 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-04 11:11 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  RELY 2026-05-04 10:00  STRONG_CONT        ORB UNKNOWN  23.510      15.864  0.657      1.746         2.319       0.0329
-  MYRG 2026-05-04 10:30 CONTINUATION      1stPB UNKNOWN 458.990      12.960  0.093      1.228         1.921       0.0402
-  SNPS 2026-05-04 10:00 CONTINUATION        PMH UNKNOWN 496.285      12.786  1.932      0.662         0.788       0.0058
-  STRL 2026-05-04 10:30  SQUEEZE_POP   BOX, NR7 UNKNOWN 542.345       9.720 -0.048      1.317         1.339       0.0078
-    ON 2026-05-04 10:30  SQUEEZE_POP        NR7 UNKNOWN 103.250       8.398 -0.861      1.104         1.039      -0.0162
+===== PowerFlow Intraday v6 (Trigger)  2026-05-04 13:12 ET =====
+ticker           bar_et        mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+     S 2026-05-04 12:00        BOTH         HH UNKNOWN  15.325      16.919  1.660      2.720         1.214       0.0329
+  STRL 2026-05-04 12:30        BOTH      1stPB UNKNOWN 540.630      13.765  0.736      1.457         1.439       0.0118
+  COLB 2026-05-04 12:00 SQUEEZE_POP        NR7 UNKNOWN  29.070      11.039 -5.541      9.490         1.580      -0.0035
+   ASX 2026-05-04 12:00 SQUEEZE_POP        NR7 UNKNOWN  32.030      10.589 -0.831      3.740         1.310      -0.0074
+  SNPS 2026-05-04 12:00 SQUEEZE_POP        NR7 UNKNOWN 493.275       9.511  0.968      1.423         0.971       0.0053
+    ON 2026-05-04 12:00 SQUEEZE_POP        NR7 UNKNOWN 101.840       8.060 -1.091      2.124         1.045      -0.0227
+   STM 2026-05-04 12:00 SQUEEZE_POP        NR7 UNKNOWN  54.890       7.956 -0.613      2.114         0.876      -0.0190
+  IBKR 2026-05-04 12:00 SQUEEZE_POP        NR7 UNKNOWN  81.085       7.280 -1.123      1.167         0.814       0.0076
