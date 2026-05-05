@@ -1,7 +1,6 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-04 15:06 ET =====
-ticker           bar_et         mode   setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  LITE 2026-05-04 14:00  STRONG_CONT ORB, PMH, HH UNKNOWN 1001.370      17.323  1.535      2.044         1.051       0.0191
-  CECO 2026-05-04 14:00  SQUEEZE_POP          NR7 UNKNOWN   76.530      13.889 -3.109      2.198         2.736      -0.0122
-  LUMN 2026-05-04 14:00  STRONG_CONT        1stPB UNKNOWN    9.335      12.263  0.782      0.933         1.247       0.0291
-   CNC 2026-05-04 14:00  SQUEEZE_POP    VWAP, NR7 UNKNOWN   53.710      11.826  1.486      0.646         0.618       0.0174
-  STRL 2026-05-04 14:30 CONTINUATION        1stPB UNKNOWN  542.520      10.365 -0.021      0.987         1.459       0.0141
+===== PowerFlow Intraday v6 (Trigger)  2026-05-05 13:06 ET =====
+ticker           bar_et         mode setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  IBKR 2026-05-05 12:00  STRONG_CONT      1stPB UNKNOWN  84.3600      15.594 1.879      1.799         1.055       0.0205
+  MYRG 2026-05-05 12:00  STRONG_CONT   PMH, BOX UNKNOWN 470.3000      15.154 0.749      2.042         1.705       0.0072
+    MU 2026-05-05 12:30 CONTINUATION        ORB   SEMIS 638.5201      14.227 0.585      2.148         1.782       0.0457
+     S 2026-05-05 12:00 CONTINUATION      1stPB UNKNOWN  15.9150      11.982 0.085      1.477         1.228       0.0157
