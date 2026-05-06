@@ -1,8 +1,8 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-06 13:07 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-05-06 15:10 ET =====
 ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  FUTU 2026-05-06 12:00 CONTINUATION    HH, BOX UNKNOWN 167.900      19.517  2.824      3.393         1.725       0.0327
-  LUMN 2026-05-06 12:30         BOTH      1stPB UNKNOWN   9.345      15.357  0.901      2.934         3.357       0.0533
-  STRL 2026-05-06 12:30 CONTINUATION   ORB, BOX UNKNOWN 867.930      14.738  0.078      1.441         2.410       0.0626
-   VVX 2026-05-06 12:00 CONTINUATION  VWAP, PMH UNKNOWN  75.620      14.390  0.007      4.955         1.878      -0.0021
-    ON 2026-05-06 12:00 CONTINUATION      1stPB UNKNOWN 104.180      13.249  0.527      1.624         1.821       0.0115
-    MU 2026-05-06 12:30 CONTINUATION      1stPB   SEMIS 653.055       8.406 -0.087      0.703         1.422      -0.0137
+   CNC 2026-05-06 14:00         BOTH         HH UNKNOWN  55.030      14.857  1.710      1.582         0.813       0.0406
+   AMD 2026-05-06 14:00         BOTH        BOX   SEMIS 420.000      14.586  0.796      1.545         1.841       0.0199
+  STRL 2026-05-06 14:00 CONTINUATION      1stPB UNKNOWN 870.840      14.526  0.079      2.193         2.378       0.0630
+  JAZZ 2026-05-06 14:30     REVERSAL        PMH UNKNOWN 225.590      13.464 -0.002      3.224         3.413      -0.0162
+    ON 2026-05-06 14:30     REVERSAL      1stPB UNKNOWN 104.295      10.351  0.123      0.866         1.560       0.0101
+   STM 2026-05-06 14:00 CONTINUATION      1stPB UNKNOWN  57.730       8.362  0.446      1.133         0.910       0.0074
