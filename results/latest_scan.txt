@@ -1,15 +1,8 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-06 11:28 ET =====
-ticker           bar_et         mode              setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  DELL 2026-05-06 10:30         BOTH ORB, VWAP, PMH, HH, BOX UNKNOWN 228.1000      23.705  3.696      2.565         1.773       0.0307
-  JAZZ 2026-05-06 10:30 CONTINUATION               VWAP, PMH UNKNOWN 227.8300      19.580  1.939      5.503         4.678      -0.0026
-  FUTU 2026-05-06 10:00 CONTINUATION          ORB, VWAP, PMH UNKNOWN 163.3100      17.111  1.477      1.572         1.667       0.0099
-  CTRI 2026-05-06 10:30     REVERSAL          VWAP, PMH, NR7 UNKNOWN  42.2000      17.045  0.971      2.052         2.618      -0.0180
-  STRL 2026-05-06 10:30 CONTINUATION          VWAP, PMH, NR7 UNKNOWN 843.9509      15.717  0.356      1.432         2.420       0.0334
-  RELY 2026-05-06 10:30  STRONG_CONT                     PMH UNKNOWN  24.0250      15.615  1.961      2.866         1.994       0.0058
-  COLB 2026-05-06 10:30     REVERSAL     VWAP, PMH, BOX, NR7 UNKNOWN  30.3450      15.479  1.529      1.560         1.172       0.0057
-   STT 2026-05-06 10:30  SQUEEZE_POP          VWAP, BOX, NR7 UNKNOWN 151.6050      13.430  1.855      1.792         0.852       0.0046
-   CNC 2026-05-06 10:30     REVERSAL                 ORB, HH UNKNOWN  54.2600      11.350  1.608      0.943         0.658       0.0294
-    ON 2026-05-06 10:30     REVERSAL                    VWAP UNKNOWN 102.0300      10.791  1.147      1.987         1.609      -0.0081
-   ASX 2026-05-06 10:30  SQUEEZE_POP               VWAP, NR7 UNKNOWN  33.7101       9.959  0.795      1.123         1.184       0.0130
-     S 2026-05-06 10:30  SQUEEZE_POP                     NR7 UNKNOWN  15.2550       8.455  0.448      1.388         2.093      -0.0286
-   CLS 2026-05-06 10:00  SQUEEZE_POP                      SQ UNKNOWN 398.7150       7.876 -3.595      1.397         1.134      -0.0666
+===== PowerFlow Intraday v6 (Trigger)  2026-05-06 13:07 ET =====
+ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  FUTU 2026-05-06 12:00 CONTINUATION    HH, BOX UNKNOWN 167.900      19.517  2.824      3.393         1.725       0.0327
+  LUMN 2026-05-06 12:30         BOTH      1stPB UNKNOWN   9.345      15.357  0.901      2.934         3.357       0.0533
+  STRL 2026-05-06 12:30 CONTINUATION   ORB, BOX UNKNOWN 867.930      14.738  0.078      1.441         2.410       0.0626
+   VVX 2026-05-06 12:00 CONTINUATION  VWAP, PMH UNKNOWN  75.620      14.390  0.007      4.955         1.878      -0.0021
+    ON 2026-05-06 12:00 CONTINUATION      1stPB UNKNOWN 104.180      13.249  0.527      1.624         1.821       0.0115
+    MU 2026-05-06 12:30 CONTINUATION      1stPB   SEMIS 653.055       8.406 -0.087      0.703         1.422      -0.0137
