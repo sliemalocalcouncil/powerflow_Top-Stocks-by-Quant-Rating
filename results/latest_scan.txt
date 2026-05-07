@@ -1,5 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-07 13:20 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  VSAT 2026-05-07 12:30 CONTINUATION   ORB, BOX UNKNOWN  68.050      14.045  1.236      1.571         1.470       0.0041
-  CPRX 2026-05-07 12:00 CONTINUATION      1stPB UNKNOWN  31.225      12.126 -0.013      0.624         6.341       0.0044
-  SANM 2026-05-07 12:00 CONTINUATION      1stPB UNKNOWN 238.915       9.784  0.068      1.571         0.772      -0.0016
+===== PowerFlow Intraday v6 (Trigger)  2026-05-07 15:15 ET =====
+ticker           bar_et        mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  TIGO 2026-05-07 14:00    REVERSAL        NR7 UNKNOWN  80.8501      10.267  0.119      3.026         1.930      -0.0290
+   CLS 2026-05-07 14:00 SQUEEZE_POP        NR7 UNKNOWN 376.3100       9.362 -2.761      4.290         1.258      -0.0800
+  VSAT 2026-05-07 14:30 SQUEEZE_POP         SQ UNKNOWN  65.2750       8.587 -1.041      1.857         1.667      -0.0349
