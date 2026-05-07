@@ -1,8 +1,9 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-06 15:10 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   CNC 2026-05-06 14:00         BOTH         HH UNKNOWN  55.030      14.857  1.710      1.582         0.813       0.0406
-   AMD 2026-05-06 14:00         BOTH        BOX   SEMIS 420.000      14.586  0.796      1.545         1.841       0.0199
-  STRL 2026-05-06 14:00 CONTINUATION      1stPB UNKNOWN 870.840      14.526  0.079      2.193         2.378       0.0630
-  JAZZ 2026-05-06 14:30     REVERSAL        PMH UNKNOWN 225.590      13.464 -0.002      3.224         3.413      -0.0162
-    ON 2026-05-06 14:30     REVERSAL      1stPB UNKNOWN 104.295      10.351  0.123      0.866         1.560       0.0101
-   STM 2026-05-06 14:00 CONTINUATION      1stPB UNKNOWN  57.730       8.362  0.446      1.133         0.910       0.0074
+===== PowerFlow Intraday v6 (Trigger)  2026-05-07 11:29 ET =====
+ticker           bar_et         mode        setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  NBIS 2026-05-07 10:00         BOTH     ORB, PMH, BOX UNKNOWN 195.780      15.736  2.471      1.031         0.897       0.0271
+  VSAT 2026-05-07 10:30 CONTINUATION ORB, HH, BOX, NR7 UNKNOWN  68.050      14.281  0.637      1.595         1.314      -0.0039
+     S 2026-05-07 10:30     REVERSAL               BOX UNKNOWN  15.975      12.154  1.545      1.785         1.440       0.0041
+  CTRI 2026-05-07 10:30  SQUEEZE_POP               NR7 UNKNOWN  36.030      12.151  0.158      6.444         7.824      -0.0448
+  ROAD 2026-05-07 10:30         BOTH          ORB, BOX UNKNOWN 135.005      11.488  0.550      1.688         1.383      -0.0050
+  NVST 2026-05-07 10:00  SQUEEZE_POP                SQ UNKNOWN  25.375      11.369 -1.485      5.057         8.254      -0.1384
+  CRDO 2026-05-07 10:30 CONTINUATION             1stPB UNKNOWN 200.130       9.159  0.296      1.118         0.901       0.0179
