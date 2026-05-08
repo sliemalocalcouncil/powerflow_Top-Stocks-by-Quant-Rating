@@ -1,9 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-08 12:15 ET =====
-ticker           bar_et         mode   setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   AER 2026-05-08 11:00 CONTINUATION ORB, HH, NR7 UNKNOWN 151.085      17.457  1.844      4.218         1.657       0.0047
-   HWC 2026-05-08 11:30  STRONG_CONT          BOX UNKNOWN  68.850      16.939  2.923      4.493         1.871       0.0079
-  RELY 2026-05-08 11:00     REVERSAL    VWAP, PMH UNKNOWN  23.640      16.626  1.367      4.533         3.869       0.0115
-   STM 2026-05-08 11:30         BOTH ORB, HH, BOX UNKNOWN  58.440      13.724  1.604      1.208         0.556       0.0274
-   VVX 2026-05-08 11:00  SQUEEZE_POP          NR7 UNKNOWN  71.000      11.784 -1.437      6.436         6.257      -0.0406
-   APP 2026-05-08 11:00         BOTH         VWAP UNKNOWN 464.820      11.228  0.613      1.866         2.326      -0.0618
-   CNC 2026-05-08 11:30         BOTH        1stPB UNKNOWN  55.770       9.947  0.814      0.689         0.523       0.0074
+===== PowerFlow Intraday v6 (Trigger)  2026-05-08 13:53 ET =====
+ticker           bar_et        mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  DELL 2026-05-08 12:30 STRONG_CONT         HH UNKNOWN 252.100      20.645 2.668      8.064         1.750       0.0746
+  RELY 2026-05-08 12:30 STRONG_CONT         HH UNKNOWN  24.255      15.647 1.978      5.032         3.855       0.0359
+   STM 2026-05-08 13:00 STRONG_CONT         HH UNKNOWN  59.300      15.559 1.521      2.242         0.762       0.0386
+   HPE 2026-05-08 12:30        BOTH    HH, BOX UNKNOWN  30.540      14.496 1.498      2.066         1.284       0.0133
+   ASX 2026-05-08 12:30 STRONG_CONT      1stPB UNKNOWN  33.840       9.363 0.459      1.372         1.059       0.0122
