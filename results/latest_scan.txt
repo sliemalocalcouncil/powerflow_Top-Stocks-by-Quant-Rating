@@ -1,8 +1,8 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-08 15:22 ET =====
-ticker           bar_et         mode     setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  ROAD 2026-05-08 14:30         BOTH VWAP, PMH, NR7 UNKNOWN 145.0000      18.578 0.978      3.166         4.632       0.0111
-  VSAT 2026-05-08 14:00         BOTH          1stPB UNKNOWN  69.6750      14.838 1.086      2.378         1.216       0.0283
-    RF 2026-05-08 14:00     REVERSAL      VWAP, NR7 UNKNOWN  27.7850      13.936 1.400      2.258         2.504      -0.0164
-  SNPS 2026-05-08 14:00 CONTINUATION        HH, BOX UNKNOWN 519.0050      12.280 1.968      1.647         0.752       0.0228
-     S 2026-05-08 14:30 CONTINUATION        HH, BOX UNKNOWN  16.1400      12.016 1.006      1.891         0.915       0.0234
-   KEY 2026-05-08 14:00  SQUEEZE_POP            NR7 UNKNOWN  21.6476       6.914 1.332      0.858         0.701      -0.0133
+===== PowerFlow Intraday v6 (Trigger)  2026-05-11 11:57 ET =====
+ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+    MU 2026-05-11 10:30  SQUEEZE_POP  VWAP, NR7   SEMIS 789.615      13.036  0.423      1.270         1.508      -0.0070
+  MYRG 2026-05-11 10:30  STRONG_CONT      1stPB UNKNOWN 448.230      12.959  1.403      0.819         0.814       0.0210
+   HWC 2026-05-11 11:00  SQUEEZE_POP         SQ UNKNOWN  68.020      12.847  0.426      5.917         3.607      -0.0160
+   ASX 2026-05-11 10:30 CONTINUATION 1stPB, NR7 UNKNOWN  34.650      10.867  0.319      1.092         1.145       0.0107
+  IBKR 2026-05-11 10:30         BOTH      1stPB UNKNOWN  85.550       9.345  0.918      0.590         0.762       0.0124
+     S 2026-05-11 10:30  SQUEEZE_POP        NR7 UNKNOWN  16.155       6.245 -0.848      1.790         1.094      -0.0152
