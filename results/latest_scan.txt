@@ -1,8 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-11 11:57 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-    MU 2026-05-11 10:30  SQUEEZE_POP  VWAP, NR7   SEMIS 789.615      13.036  0.423      1.270         1.508      -0.0070
-  MYRG 2026-05-11 10:30  STRONG_CONT      1stPB UNKNOWN 448.230      12.959  1.403      0.819         0.814       0.0210
-   HWC 2026-05-11 11:00  SQUEEZE_POP         SQ UNKNOWN  68.020      12.847  0.426      5.917         3.607      -0.0160
-   ASX 2026-05-11 10:30 CONTINUATION 1stPB, NR7 UNKNOWN  34.650      10.867  0.319      1.092         1.145       0.0107
-  IBKR 2026-05-11 10:30         BOTH      1stPB UNKNOWN  85.550       9.345  0.918      0.590         0.762       0.0124
-     S 2026-05-11 10:30  SQUEEZE_POP        NR7 UNKNOWN  16.155       6.245 -0.848      1.790         1.094      -0.0152
+===== PowerFlow Intraday v6 (Trigger)  2026-05-11 14:00 ET =====
+ticker           bar_et         mode setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+    MU 2026-05-11 13:00  STRONG_CONT        PMH   SEMIS 803.4600      14.512 0.634      1.954         1.417       0.0089
+  ILMN 2026-05-11 13:00 CONTINUATION      1stPB BIOTECH 143.5900      13.408 1.067      1.417         1.641       0.0164
+  DAVE 2026-05-11 12:30     REVERSAL   VWAP, SQ UNKNOWN 248.6975      11.826 1.452      1.687         1.139       0.0005
+   NUE 2026-05-11 12:30 CONTINUATION      1stPB UNKNOWN 231.2300      11.777 1.458      1.212         0.761       0.0064
+   NEM 2026-05-11 12:30 CONTINUATION      1stPB UNKNOWN 120.3500       9.999 0.679      1.426         1.022       0.0243
