@@ -1,5 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-11 16:01 ET =====
-ticker           bar_et         mode   setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-   PBI 2026-05-11 15:00 CONTINUATION         VWAP UNKNOWN  16.00      16.170 2.759      1.350         1.381      -0.0068
-  EXEL 2026-05-11 15:00  STRONG_CONT        1stPB UNKNOWN  49.61      12.099 0.343      0.874         1.369       0.0256
-   APP 2026-05-11 15:00  SQUEEZE_POP HH, BOX, NR7 UNKNOWN 473.92       9.082 0.963      1.172         1.028       0.0367
+===== PowerFlow Intraday v6 (Trigger)  2026-05-12 11:41 ET =====
+ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  LQDA 2026-05-12 11:00         BOTH       VWAP UNKNOWN  52.3000      14.878  0.001      2.439         3.126      -0.0189
+  ILMN 2026-05-12 10:30 CONTINUATION      1stPB BIOTECH 144.8750      14.184  0.819      1.644         1.669       0.0135
+  ROIV 2026-05-12 10:30  STRONG_CONT      1stPB UNKNOWN  29.7950      14.104  0.873      1.414         1.095       0.0310
+   HBM 2026-05-12 11:00  SQUEEZE_POP        NR7 UNKNOWN  25.3550      13.258 -3.282      2.697         2.251       0.0171
+  PAAS 2026-05-12 11:00  SQUEEZE_POP        NR7 UNKNOWN  60.5475       8.285 -2.629      1.483         0.839       0.0002
