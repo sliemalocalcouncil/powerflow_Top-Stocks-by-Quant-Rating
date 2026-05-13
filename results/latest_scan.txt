@@ -1,11 +1,4 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-13 11:46 ET =====
-ticker           bar_et         mode   setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  NBIS 2026-05-13 10:30  SQUEEZE_POP          NR7 UNKNOWN 208.6750      17.296  0.807      2.046         2.694       0.0185
-   BAK 2026-05-13 10:30 CONTINUATION        1stPB UNKNOWN   5.3006      17.118  0.047      5.806         3.536       0.0744
-    ON 2026-05-13 10:30         BOTH      ORB, HH UNKNOWN 114.5500      16.776  0.739      1.834         1.814       0.0467
-   ATI 2026-05-13 11:00  SQUEEZE_POP HH, BOX, NR7 UNKNOWN 164.8500      15.475  2.281      1.337         0.975       0.0170
-   HBM 2026-05-13 11:00 CONTINUATION        1stPB UNKNOWN  28.0200      13.255  0.881      1.588         1.750       0.0173
-   STM 2026-05-13 11:00   STRONG_REV        1stPB UNKNOWN  61.2900      11.587  0.431      1.118         1.312      -0.0041
-  SPIR 2026-05-13 10:30  SQUEEZE_POP          NR7 UNKNOWN  17.6100      10.639  0.429      3.391         1.970      -0.0158
-   NUE 2026-05-13 10:30         BOTH        1stPB UNKNOWN 235.0450      10.552  0.854      1.069         0.858       0.0107
-  SNPS 2026-05-13 10:30  SQUEEZE_POP      SQ, NR7 UNKNOWN 504.9700       6.803 -1.493      1.363         1.095      -0.0238
+===== PowerFlow Intraday v6 (Trigger)  2026-05-13 14:04 ET =====
+ticker           bar_et         mode   setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+    DY 2026-05-13 13:00  SQUEEZE_POP HH, BOX, NR7 UNKNOWN 448.905      16.078 0.933      2.164         1.302       0.0328
+  NBIS 2026-05-13 13:00 CONTINUATION        1stPB UNKNOWN 212.775      13.452 0.483      1.974         2.309       0.0329
