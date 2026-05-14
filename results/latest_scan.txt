@@ -1,5 +1,4 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-14 13:20 ET =====
-ticker           bar_et        mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  GNRC 2026-05-14 12:30 SQUEEZE_POP         SQ UNKNOWN 270.100       8.581  0.051      1.582         0.651      -0.0043
-  JAZZ 2026-05-14 12:30 SQUEEZE_POP         SQ UNKNOWN 230.720       6.656 -2.102      1.770         0.808      -0.0154
-   CNC 2026-05-14 12:30 SQUEEZE_POP         SQ UNKNOWN  58.745       6.013 -0.438      1.440         0.531      -0.0067
+===== PowerFlow Intraday v6 (Trigger)  2026-05-14 15:19 ET =====
+ticker           bar_et mode        setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  CPRX 2026-05-14 14:30 BOTH ORB, PMH, HH, NR7 UNKNOWN  31.170      20.103 3.376      4.415         1.472      -0.0056
+  GNRC 2026-05-14 14:30 BOTH ORB, HH, BOX, NR7 UNKNOWN 271.475      18.261 2.704      1.833         0.731       0.0014
