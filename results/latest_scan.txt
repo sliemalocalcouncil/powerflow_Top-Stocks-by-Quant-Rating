@@ -1,8 +1,3 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-15 11:18 ET =====
-ticker           bar_et         mode   setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  SPIR 2026-05-15 10:00         BOTH      ORB, HH UNKNOWN  19.720      19.388  2.043      2.287         1.826       0.1091
- DBSDY 2026-05-15 10:30 CONTINUATION   1stPB, NR7 UNKNOWN 188.100      17.815  0.429      6.374         4.387      -0.0069
-  SANM 2026-05-15 10:00  SQUEEZE_POP ORB, PMH, SQ UNKNOWN 235.020      10.545  0.974      0.963         0.713      -0.0040
-  GNRC 2026-05-15 10:30  SQUEEZE_POP          NR7 UNKNOWN 260.715       8.586 -2.402      2.597         0.953      -0.0398
-  SNPS 2026-05-15 10:30  SQUEEZE_POP           SQ UNKNOWN 499.100       6.977 -1.395      1.197         1.352      -0.0109
-  NBIS 2026-05-15 10:30  SQUEEZE_POP          NR7 UNKNOWN 219.800       6.970 -0.962      1.075         1.206       0.0054
+===== PowerFlow Intraday v6 (Trigger)  2026-05-15 15:07 ET =====
+ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  NBIS 2026-05-15 14:30 CONTINUATION      1stPB UNKNOWN 224.44       9.941 0.879      0.958         1.265       0.0238
