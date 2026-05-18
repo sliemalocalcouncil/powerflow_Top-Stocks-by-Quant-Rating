@@ -1,0 +1,2 @@
+﻿ticker,bar_et,scan_key,mode,setup_tags,pass_score,close,pre_clv,post_clv,mf_z,vol_spike,rvol_slot,session_rvol,vwap,dist_vwap_pct,atr_expand,rs_qqq_20,rs_open_qqq,rs_sec_20,wick_ratio,body_ratio,daily_uptrend,daily_ema_stack,intra_uptrend,above_vwap,breakout,orb_break,vwap_reclaim,pmh_break,first_pullback,squeeze_release,sector
+ROIV,2026-05-18 11:00,ROIV|2026-05-18 11:00,SQUEEZE_POP,NR7,7.888,28.38,-0.1086,0.1216,0.128,1.008,2.272,1.192,28.6267,-0.86,1.37,-0.0163,-0.0216,0,0.049,0.444,True,True,False,False,False,False,False,False,False,False,UNKNOWN

@@ -1,3 +1,3 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-15 15:07 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  NBIS 2026-05-15 14:30 CONTINUATION      1stPB UNKNOWN 224.44       9.941 0.879      0.958         1.265       0.0238
+===== PowerFlow Intraday v6 (Trigger)  2026-05-18 12:27 ET =====
+ticker           bar_et        mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  ROIV 2026-05-18 11:00 SQUEEZE_POP        NR7 UNKNOWN  28.38       7.888 0.128      2.272         1.192      -0.0216
