@@ -1,4 +1,3 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-19 12:23 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CPRX 2026-05-19 11:30  STRONG_CONT        NR7 UNKNOWN  31.205      16.309 2.560      2.749         1.289       0.0042
-  JAZZ 2026-05-19 11:30 CONTINUATION      1stPB UNKNOWN 236.405      10.108 0.689      1.159         0.917       0.0135
+===== PowerFlow Intraday v6 (Trigger)  2026-05-19 14:21 ET =====
+ticker           bar_et        mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  MYRG 2026-05-19 13:00 STRONG_CONT   ORB, PMH UNKNOWN 445.15      13.521 0.988      1.898          1.47       0.0015
