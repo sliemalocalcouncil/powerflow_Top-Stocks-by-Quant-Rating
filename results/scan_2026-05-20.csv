@@ -1,0 +1,2 @@
+﻿ticker,bar_et,scan_key,mode,setup_tags,pass_score,close,pre_clv,post_clv,mf_z,vol_spike,rvol_slot,session_rvol,vwap,dist_vwap_pct,atr_expand,rs_qqq_20,rs_open_qqq,rs_sec_20,wick_ratio,body_ratio,daily_uptrend,daily_ema_stack,intra_uptrend,above_vwap,breakout,orb_break,vwap_reclaim,pmh_break,first_pullback,squeeze_release,sector
+STM,2026-05-20 11:30,STM|2026-05-20 11:30,CONTINUATION,1stPB,13.068,64.72,0.3549,0.184,1.736,1.317,0.947,0.886,64.1178,0.94,0.611,0.053,0.007,0,0.021,0.646,True,True,True,True,False,False,False,False,True,False,UNKNOWN
