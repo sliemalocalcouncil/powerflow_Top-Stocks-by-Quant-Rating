@@ -1,3 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-21 12:17 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-05-21 14:20 ET =====
 ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  NBIS 2026-05-21 11:00 CONTINUATION      1stPB UNKNOWN 223.19       12.43 0.364      0.852         1.385       0.0559
+  IBKR 2026-05-21 13:00   STRONG_REV  VWAP, NR7 UNKNOWN  83.42      15.642 3.636      3.485         1.078      -0.0013
+   STM 2026-05-21 13:30 CONTINUATION      1stPB UNKNOWN  65.77      11.472 0.277      1.555         0.682       0.0126
+  ROIV 2026-05-21 13:00     REVERSAL       VWAP UNKNOWN  31.62       9.299 0.393      1.565         1.824      -0.0202
