@@ -1,4 +1,3 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-20 14:42 ET =====
-ticker           bar_et         mode setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  SANM 2026-05-20 14:00     REVERSAL  VWAP, NR7 UNKNOWN 234.2699      14.985 1.712      1.735         0.771       0.0219
-  RAMP 2026-05-20 14:00 CONTINUATION        ORB UNKNOWN  37.7450      12.316 0.521      2.548         3.038      -0.0048
+===== PowerFlow Intraday v6 (Trigger)  2026-05-21 12:17 ET =====
+ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  NBIS 2026-05-21 11:00 CONTINUATION      1stPB UNKNOWN 223.19       12.43 0.364      0.852         1.385       0.0559
