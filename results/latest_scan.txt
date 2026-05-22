@@ -1,6 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-22 13:54 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CSTM 2026-05-22 13:00  STRONG_CONT    HH, BOX UNKNOWN  33.36      15.775  2.185      2.716         0.930       0.0383
-  EWBC 2026-05-22 13:00  SQUEEZE_POP        NR7 UNKNOWN 123.51      14.231  3.862      1.860         0.860       0.0010
-   ATI 2026-05-22 13:00  STRONG_CONT      1stPB UNKNOWN 164.03      11.339  0.297      1.538         0.982       0.0153
-  SNPS 2026-05-22 12:30 CONTINUATION      1stPB UNKNOWN 530.50      10.239 -0.183      0.737         1.254       0.0391
+===== PowerFlow Intraday v6 (Trigger)  2026-05-22 15:50 ET =====
+ticker           bar_et        mode setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  SANM 2026-05-22 15:00        BOTH   ORB, BOX UNKNOWN 244.43      16.103  1.601      1.721         0.928       0.0300
+   ATI 2026-05-22 14:30 SQUEEZE_POP        NR7 UNKNOWN 162.54       8.403 -1.957      1.918         1.035       0.0088
+  CPRX 2026-05-22 15:00 SQUEEZE_POP        NR7 UNKNOWN  31.25       8.400 -4.328      1.845         0.351       0.0020
