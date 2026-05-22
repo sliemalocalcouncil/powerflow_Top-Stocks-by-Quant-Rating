@@ -1,5 +1,13 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-21 14:20 ET =====
-ticker           bar_et         mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  IBKR 2026-05-21 13:00   STRONG_REV  VWAP, NR7 UNKNOWN  83.42      15.642 3.636      3.485         1.078      -0.0013
-   STM 2026-05-21 13:30 CONTINUATION      1stPB UNKNOWN  65.77      11.472 0.277      1.555         0.682       0.0126
-  ROIV 2026-05-21 13:00     REVERSAL       VWAP UNKNOWN  31.62       9.299 0.393      1.565         1.824      -0.0202
+===== PowerFlow Intraday v6 (Trigger)  2026-05-22 11:50 ET =====
+ticker           bar_et         mode        setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  DELL 2026-05-22 10:30 CONTINUATION             1stPB UNKNOWN 293.3150      20.335  1.541      3.851         3.678       0.0939
+  SPIR 2026-05-22 10:30 CONTINUATION ORB, HH, BOX, NR7 UNKNOWN  21.3744      19.430  3.260      1.343         0.910       0.0892
+    ON 2026-05-22 10:30 CONTINUATION ORB, HH, BOX, NR7 UNKNOWN 116.3500      18.674  1.929      1.612         0.847       0.0493
+   HPE 2026-05-22 10:30  STRONG_CONT             1stPB UNKNOWN  37.1800      18.313  2.138      1.680         1.652       0.0728
+     S 2026-05-22 11:00  STRONG_CONT  ORB, HH, BOX, SQ UNKNOWN  18.5350      18.166  2.762      1.454         0.760       0.0112
+  SNPS 2026-05-22 10:30 CONTINUATION      ORB, HH, BOX UNKNOWN 532.4700      15.919  0.636      1.701         1.494       0.0439
+   FAF 2026-05-22 11:00         BOTH             1stPB UNKNOWN  68.2700      14.335  1.629      2.231         1.453       0.0029
+  CRDO 2026-05-22 10:30  SQUEEZE_POP    VWAP, BOX, NR7 UNKNOWN 203.2600      13.436  1.169      0.935         1.195       0.0324
+  IBKR 2026-05-22 10:30  SQUEEZE_POP               NR7 UNKNOWN  82.5950      11.465  0.217      3.076         2.220      -0.0187
+   ASX 2026-05-22 11:00   STRONG_REV             1stPB UNKNOWN  34.7750       8.821 -0.412      0.846         1.251      -0.0115
+  ROIV 2026-05-22 11:00  SQUEEZE_POP         VWAP, NR7 UNKNOWN  30.3500       8.221  0.947      1.303         1.097      -0.0152
