@@ -1,4 +1,4 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-25 13:45 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-05-25 15:44 ET =====
 ticker           bar_et         mode        setup_tags  sector  close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
    VLY 2026-05-22 15:30 CONTINUATION      ORB, HH, BOX UNKNOWN  13.55      17.829  7.151      1.239         0.958       0.0048
    VVX 2026-05-22 15:30 CONTINUATION           HH, BOX UNKNOWN  73.99      17.735  9.726      1.001         0.573       0.0303
