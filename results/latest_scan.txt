@@ -1,8 +1,10 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-26 12:44 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-05-26 15:22 ET =====
 ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  CECO 2026-05-26 12:00     REVERSAL    HH, NR7 UNKNOWN  87.320      21.090  3.032      3.199         2.038       0.0396
-  LUMN 2026-05-26 12:00         BOTH    ORB, HH UNKNOWN  10.095      18.391  1.173      3.684         1.313       0.0545
-    ON 2026-05-26 12:00         BOTH       VWAP UNKNOWN 126.685      15.964  1.180      2.300         1.841       0.0323
-    MU 2026-05-26 11:30 CONTINUATION      1stPB   SEMIS 873.200      12.498 -0.074      1.101         1.377       0.0668
-  ILMN 2026-05-26 12:00 CONTINUATION      1stPB BIOTECH 145.760      12.326  2.144      1.277         0.903       0.0087
-   STT 2026-05-26 11:30 CONTINUATION      1stPB UNKNOWN 156.860      10.400  0.864      0.831         1.096       0.0123
+   STT 2026-05-26 14:00  STRONG_CONT      1stPB UNKNOWN 158.440      17.857  2.419      2.105         1.210       0.0185
+   ASX 2026-05-26 14:00         BOTH  VWAP, PMH UNKNOWN  38.985      16.590  1.165      1.947         1.666       0.0219
+    GL 2026-05-26 14:30     REVERSAL       VWAP UNKNOWN 157.030      14.827  4.165      1.484         0.667       0.0042
+  SPIR 2026-05-26 14:30  SQUEEZE_POP        NR7 UNKNOWN  23.500      14.792 -1.745      7.427         2.217       0.0477
+    ON 2026-05-26 14:00 CONTINUATION      1stPB UNKNOWN 127.770      13.334  0.092      1.872         1.709       0.0391
+     S 2026-05-26 14:30         BOTH    ORB, HH UNKNOWN  18.765      13.087  0.950      1.737         1.484       0.0043
+  CPAY 2026-05-26 14:30     REVERSAL        ORB UNKNOWN 347.865      11.079  1.109      1.655         0.875       0.0135
+   NUE 2026-05-26 14:00 CONTINUATION      1stPB UNKNOWN 239.360       9.678 -0.010      0.816         1.354       0.0263
