@@ -1,10 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-26 15:22 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-05-27 12:39 ET =====
 ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   STT 2026-05-26 14:00  STRONG_CONT      1stPB UNKNOWN 158.440      17.857  2.419      2.105         1.210       0.0185
-   ASX 2026-05-26 14:00         BOTH  VWAP, PMH UNKNOWN  38.985      16.590  1.165      1.947         1.666       0.0219
-    GL 2026-05-26 14:30     REVERSAL       VWAP UNKNOWN 157.030      14.827  4.165      1.484         0.667       0.0042
-  SPIR 2026-05-26 14:30  SQUEEZE_POP        NR7 UNKNOWN  23.500      14.792 -1.745      7.427         2.217       0.0477
-    ON 2026-05-26 14:00 CONTINUATION      1stPB UNKNOWN 127.770      13.334  0.092      1.872         1.709       0.0391
-     S 2026-05-26 14:30         BOTH    ORB, HH UNKNOWN  18.765      13.087  0.950      1.737         1.484       0.0043
-  CPAY 2026-05-26 14:30     REVERSAL        ORB UNKNOWN 347.865      11.079  1.109      1.655         0.875       0.0135
-   NUE 2026-05-26 14:00 CONTINUATION      1stPB UNKNOWN 239.360       9.678 -0.010      0.816         1.354       0.0263
+   VLY 2026-05-27 11:30 CONTINUATION   PMH, NR7 UNKNOWN  13.755      18.827  2.731      6.461         2.788       0.0075
+    DY 2026-05-27 12:00         BOTH  VWAP, PMH UNKNOWN 550.580      18.817  2.228      2.376         5.989       0.0298
+  AMSC 2026-05-27 11:30 CONTINUATION      1stPB UNKNOWN  53.700      14.511  1.380      2.756         1.376       0.0061
+  MYRG 2026-05-27 11:30  SQUEEZE_POP        NR7 UNKNOWN 469.000      11.252 -1.236      2.109         0.836       0.0064
+   ATI 2026-05-27 11:30 CONTINUATION      1stPB UNKNOWN 169.090      11.101 -0.304      1.622         1.182       0.0028
