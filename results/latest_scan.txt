@@ -1,7 +1,6 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-27 12:39 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-05-27 15:27 ET =====
 ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   VLY 2026-05-27 11:30 CONTINUATION   PMH, NR7 UNKNOWN  13.755      18.827  2.731      6.461         2.788       0.0075
-    DY 2026-05-27 12:00         BOTH  VWAP, PMH UNKNOWN 550.580      18.817  2.228      2.376         5.989       0.0298
-  AMSC 2026-05-27 11:30 CONTINUATION      1stPB UNKNOWN  53.700      14.511  1.380      2.756         1.376       0.0061
-  MYRG 2026-05-27 11:30  SQUEEZE_POP        NR7 UNKNOWN 469.000      11.252 -1.236      2.109         0.836       0.0064
-   ATI 2026-05-27 11:30 CONTINUATION      1stPB UNKNOWN 169.090      11.101 -0.304      1.622         1.182       0.0028
+  ILMN 2026-05-27 14:00  STRONG_CONT    HH, BOX BIOTECH 150.370      16.756  1.139      2.087         1.007       0.0392
+  DAVE 2026-05-27 14:00 CONTINUATION        ORB UNKNOWN 255.190      14.623  2.324      1.624         1.467       0.0260
+   CNC 2026-05-27 14:30 CONTINUATION      1stPB UNKNOWN  58.435       9.328  1.036      0.552         0.683       0.0067
+   FHN 2026-05-27 14:00  SQUEEZE_POP         SQ UNKNOWN  24.155       8.718 -1.678      2.292         1.311      -0.0118
