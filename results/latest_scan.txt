@@ -1,13 +1,10 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-28 12:55 ET =====
-ticker           bar_et         mode setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  STRL 2026-05-28 11:30  STRONG_CONT         SQ UNKNOWN 828.5500      20.066 1.480      3.011         2.067       0.0508
-    DY 2026-05-28 12:00  STRONG_CONT        ORB UNKNOWN 548.8000      19.302 1.130      6.174         3.614       0.0375
- ALIZY 2026-05-28 12:00         BOTH        ORB UNKNOWN  44.5300      18.697 2.837     10.091         3.524      -0.0042
-   OSS 2026-05-28 12:00 CONTINUATION    HH, BOX UNKNOWN  18.3100      16.864 1.310      6.511         0.875       0.0247
-  DELL 2026-05-28 11:30         BOTH      1stPB UNKNOWN 325.6800      16.573 1.123      2.622         1.606       0.0182
-  CECO 2026-05-28 12:00  STRONG_CONT       VWAP UNKNOWN  80.0400      15.340 2.166      2.506         4.021      -0.0756
-  VSAT 2026-05-28 12:00 CONTINUATION      1stPB UNKNOWN  87.6925      14.074 0.111      3.009         1.533       0.0157
-  MYRG 2026-05-28 12:00         BOTH         HH UNKNOWN 481.4100      13.973 1.980      1.612         0.740       0.0010
-  CRDO 2026-05-28 12:00 CONTINUATION      1stPB UNKNOWN 226.7500      10.942 1.194      0.769         0.691       0.0100
-  TIGO 2026-05-28 11:30 CONTINUATION      1stPB UNKNOWN  86.2700       9.718 0.033      1.125         0.921       0.0161
-  CPAY 2026-05-28 11:30 CONTINUATION      1stPB UNKNOWN 354.0050       8.916 0.007      1.655         0.907       0.0009
+===== PowerFlow Intraday v6 (Trigger)  2026-05-28 15:37 ET =====
+ticker           bar_et        mode   setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+   HQY 2026-05-28 14:30 STRONG_CONT HH, BOX, NR7 UNKNOWN  90.780      16.541  1.713      1.849         1.071       0.0379
+  STRL 2026-05-28 14:30 STRONG_CONT        1stPB UNKNOWN 832.555      14.742  0.601      1.674         1.904       0.0550
+  VSAT 2026-05-28 14:30    REVERSAL        1stPB UNKNOWN  88.410      13.357 -0.274      1.448         1.497       0.0244
+     S 2026-05-28 14:30 STRONG_CONT     ORB, BOX UNKNOWN  18.175      12.610  0.347      2.275         3.422      -0.0002
+  CPAY 2026-05-28 14:30 SQUEEZE_POP           SQ UNKNOWN 355.850      11.986 -2.440      2.118         1.182       0.0053
+  DIOD 2026-05-28 14:30        BOTH          BOX UNKNOWN 109.500      11.632  0.293      1.472         1.403       0.0014
+   STT 2026-05-28 14:30 STRONG_CONT        1stPB UNKNOWN 158.430       9.436  0.934      0.894         1.074      -0.0016
+  SANM 2026-05-28 14:30 SQUEEZE_POP          NR7 UNKNOWN 263.740       7.408 -0.822      1.202         1.364      -0.0018
