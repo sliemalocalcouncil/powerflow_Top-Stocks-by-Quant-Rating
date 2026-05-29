@@ -1,8 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-05-29 12:42 ET =====
-ticker           bar_et         mode  setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  FLEX 2026-05-29 11:30 CONTINUATION       1stPB UNKNOWN 152.565      12.857  0.238      1.685         1.365       0.0463
- BELFB 2026-05-29 11:30         BOTH        VWAP UNKNOWN 268.900      12.629  2.696      1.246         0.514      -0.0244
-   ATI 2026-05-29 12:00 CONTINUATION       1stPB UNKNOWN 175.240      12.535  0.107      1.596         2.052       0.0283
-  TIGO 2026-05-29 11:30     REVERSAL VWAP, 1stPB UNKNOWN  85.870      12.473  0.944      1.710         1.113       0.0293
-  STRL 2026-05-29 11:30     REVERSAL       1stPB UNKNOWN 861.320      11.067 -0.085      0.957         1.894       0.0183
-  IBKR 2026-05-29 11:30 CONTINUATION       1stPB UNKNOWN  85.840       9.834 -0.508      0.849         1.310       0.0367
+===== PowerFlow Intraday v6 (Trigger)  2026-05-29 15:32 ET =====
+ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  DELL 2026-05-29 14:30  STRONG_CONT       VWAP UNKNOWN 416.445      16.605  0.608      4.133         5.780       0.0025
+  CPAY 2026-05-29 14:30 CONTINUATION      1stPB UNKNOWN 362.500      12.822  0.150      1.601         1.103       0.0395
+  IBKR 2026-05-29 14:30 CONTINUATION      1stPB UNKNOWN  86.470      10.563 -0.769      0.942         1.140       0.0456
+   APP 2026-05-29 14:30         BOTH      1stPB UNKNOWN 611.990      10.348  0.507      1.181         0.952       0.0237
+   STT 2026-05-29 14:30  SQUEEZE_POP        NR7 UNKNOWN 155.780       7.312 -1.052      1.795         1.421      -0.0055
