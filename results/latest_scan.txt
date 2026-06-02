@@ -1,5 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-01 14:40 ET =====
-ticker           bar_et        mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  ILMN 2026-06-01 14:00        BOTH        PMH BIOTECH 163.79      12.278 0.931      1.491         1.362       0.0075
-  DAVE 2026-06-01 13:30 STRONG_CONT      1stPB UNKNOWN 287.86      11.069 0.248      1.714         1.655      -0.0013
-   AMD 2026-06-01 13:30        BOTH      1stPB   SEMIS 513.40       9.941 0.361      1.094         1.210       0.0147
+===== PowerFlow Intraday v6 (Trigger)  2026-06-02 13:25 ET =====
+ticker           bar_et         mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+   CLS 2026-06-02 12:30 CONTINUATION      1stPB UNKNOWN 463.835      13.562 0.066      1.397         2.077       0.0510
+   PBI 2026-06-02 12:00     REVERSAL       VWAP UNKNOWN  16.730      13.259 1.063      4.265         1.342      -0.0049
+  DAVE 2026-06-02 12:00  SQUEEZE_POP        NR7 UNKNOWN 273.050       6.445 0.613      1.363         1.184      -0.0090
