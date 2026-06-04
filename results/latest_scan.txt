@@ -1,5 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-04 12:21 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  ABBV 2026-06-04 11:30   STRONG_REV  VWAP, BOX UNKNOWN 222.180      14.458 0.546      2.332         1.456      -0.0068
-   CNC 2026-06-04 11:30 CONTINUATION      1stPB UNKNOWN  62.850      13.450 0.010      2.235         1.806       0.0256
-  NVTS 2026-06-04 11:30 CONTINUATION      1stPB UNKNOWN  30.435      11.231 0.328      0.814         1.143       0.0542
+===== PowerFlow Intraday v6 (Trigger)  2026-06-04 14:35 ET =====
+ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  JAZZ 2026-06-04 14:00 CONTINUATION      1stPB UNKNOWN 238.710      14.356 -0.102      2.900         1.702       0.0111
+   STT 2026-06-04 13:30 CONTINUATION      1stPB UNKNOWN 163.660      12.207  1.086      1.369         1.228       0.0255
+   BAC 2026-06-04 13:30 CONTINUATION      1stPB UNKNOWN  53.915      10.040  0.524      1.383         1.317       0.0046
