@@ -1,11 +1,7 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-05 11:57 ET =====
-ticker           bar_et         mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  ARCB 2026-06-05 11:00         BOTH        BOX UNKNOWN 154.250      20.863  2.983      4.249         3.650       0.0303
-   HWC 2026-06-05 10:30 CONTINUATION   ORB, BOX UNKNOWN  69.325      14.644  1.665      1.659         1.220       0.0054
-  CRDO 2026-06-05 11:00 CONTINUATION      1stPB UNKNOWN 226.585      14.193  1.003      1.656         1.650       0.0907
-   FHN 2026-06-05 11:00         BOTH      1stPB UNKNOWN  24.405      13.444  0.834      2.128         1.063       0.0058
-  ABBV 2026-06-05 10:30 CONTINUATION      1stPB UNKNOWN 227.980      12.662  0.136      1.159         1.423       0.0000
-  VICR 2026-06-05 10:30     REVERSAL       VWAP UNKNOWN 287.015       9.604  0.552      1.470         1.646      -0.0316
-   HBM 2026-06-05 11:00  SQUEEZE_POP        NR7 UNKNOWN  27.140       9.044 -0.950      1.930         2.222      -0.0411
-   ASX 2026-06-05 11:00  SQUEEZE_POP        NR7 UNKNOWN  35.150       6.861 -0.559      1.497         1.488      -0.0337
-   GLW 2026-06-05 10:30  SQUEEZE_POP        NR7 UNKNOWN 188.455       6.558  0.457      0.899         1.128      -0.0075
+===== PowerFlow Intraday v6 (Trigger)  2026-06-05 14:00 ET =====
+ticker           bar_et        mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+   HWC 2026-06-05 13:00    REVERSAL  VWAP, NR7 UNKNOWN  69.290      17.569  1.827      3.730         1.706       0.0187
+  ABBV 2026-06-05 12:30        BOTH      1stPB UNKNOWN 230.240      13.068  0.218      1.771         1.390       0.0222
+    GL 2026-06-05 13:00  STRONG_REV      1stPB UNKNOWN 158.200      12.977  0.331      2.059         0.932       0.0317
+   FHN 2026-06-05 12:30 SQUEEZE_POP         SQ UNKNOWN  24.240       7.833 -0.040      1.772         1.145       0.0067
+  SANM 2026-06-05 12:30 SQUEEZE_POP        NR7 UNKNOWN 262.295       6.710  0.304      1.614         0.680      -0.0183
