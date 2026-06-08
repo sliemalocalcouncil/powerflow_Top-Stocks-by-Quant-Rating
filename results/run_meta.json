@@ -1,9 +1,9 @@
 {
-  "run_time_et": "2026-06-08 12:50",
-  "generated_utc": "2026-06-08T16:50:30.218878+00:00",
+  "run_time_et": "2026-06-08 15:23",
+  "generated_utc": "2026-06-08T19:23:08.166359+00:00",
   "data_source": "polygon.io",
   "timeframe": "30m",
-  "signal_count": 5,
+  "signal_count": 1,
   "api_calls_used": 446,
   "config": {
     "data": {

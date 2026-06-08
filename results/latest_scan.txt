@@ -1,7 +1,3 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-08 12:50 ET =====
-ticker           bar_et         mode     setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   CNC 2026-06-08 11:30  STRONG_CONT        PMH, SQ UNKNOWN  64.3600      23.221  4.319      6.351         1.933       0.0239
-  LQDA 2026-06-08 11:30         BOTH VWAP, PMH, BOX UNKNOWN  65.4600      16.123  1.164      1.588         2.119      -0.0013
-  DAVE 2026-06-08 12:00  SQUEEZE_POP        HH, NR7 UNKNOWN 276.8301      11.925  0.321      1.152         0.677       0.0400
-   APP 2026-06-08 11:30 CONTINUATION          1stPB UNKNOWN 570.3000      10.610  0.819      0.764         0.759       0.0122
-  ABBV 2026-06-08 11:30  SQUEEZE_POP            NR7 UNKNOWN 222.8200       6.443 -0.716      1.124         1.112      -0.0261
+===== PowerFlow Intraday v6 (Trigger)  2026-06-08 15:23 ET =====
+ticker           bar_et mode  setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+   ATI 2026-06-08 14:00 BOTH VWAP, 1stPB UNKNOWN 179.38        9.93 1.013      0.576         0.574      -0.0044
