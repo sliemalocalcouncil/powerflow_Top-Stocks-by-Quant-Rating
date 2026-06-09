@@ -1,13 +1,12 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-09 11:58 ET =====
-ticker           bar_et        mode setup_tags  sector   close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-   FHN 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN  24.760      14.862 -0.548      4.115         2.315       0.0273
-  CRDO 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN 235.420      12.839 -0.149      1.733         1.700       0.0529
-   JCI 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN 146.665      12.313 -0.512      2.155         1.407       0.0117
-   APH 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN 151.215      12.222 -0.134      1.296         1.626       0.0401
-  CHRW 2026-06-09 10:30    REVERSAL        NR7 UNKNOWN 191.110      12.179 -0.610      1.508         1.374       0.0294
-   BAC 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN  54.275      10.763  1.221      1.623         1.222       0.0197
-   ATI 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN 186.210      10.438  0.210      0.848         1.624       0.0307
-  COHU 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN  54.665      10.328  0.306      1.617         1.152      -0.0006
-  EWBC 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN 128.790       9.639  0.014      1.184         1.731       0.0260
-    RF 2026-06-09 10:30 SQUEEZE_POP        NR7 UNKNOWN  28.925       7.900 -0.224      0.756         1.110       0.0211
-   STT 2026-06-09 11:00 SQUEEZE_POP         SQ UNKNOWN 160.000       7.010 -0.954      0.842         1.206       0.0062
+===== PowerFlow Intraday v6 (Trigger)  2026-06-09 14:16 ET =====
+ticker           bar_et        mode   setup_tags  sector    close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
+  ARCB 2026-06-09 13:30 STRONG_CONT          BOX UNKNOWN 171.7700      22.183 3.239      6.047         3.435       0.0406
+  CARR 2026-06-09 13:30        BOTH ORB, HH, BOX UNKNOWN  70.4000      17.367 1.478      1.650         1.344       0.0628
+   ATI 2026-06-09 13:30        BOTH         VWAP UNKNOWN 183.6500      16.933 0.813      2.079         1.811       0.0305
+  CHRW 2026-06-09 13:00        BOTH         VWAP UNKNOWN 190.1200      16.876 1.735      1.800         1.475       0.0408
+   VLY 2026-06-09 13:00    REVERSAL         VWAP UNKNOWN  14.0300      16.388 1.545      2.566         1.993       0.0363
+   CNC 2026-06-09 13:30    REVERSAL          PMH UNKNOWN  65.4950      16.045 1.578      3.259         1.292       0.0345
+  CRDO 2026-06-09 13:00        BOTH          NR7 UNKNOWN 225.8400      15.357 1.166      3.250         1.794       0.0273
+   STM 2026-06-09 13:00        BOTH          NR7 UNKNOWN  71.0300      14.268 1.894      3.922         2.125      -0.0319
+   BAC 2026-06-09 13:30    REVERSAL        1stPB UNKNOWN  54.3001      11.687 0.161      0.902         1.181       0.0339
+    ON 2026-06-09 13:00  STRONG_REV          NR7 UNKNOWN 112.9700      11.495 1.506      2.743         1.585      -0.0444
