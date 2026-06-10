@@ -1,10 +1,10 @@
 {
-  "run_time_et": "2026-06-09 14:16",
-  "generated_utc": "2026-06-09T18:16:09.148904+00:00",
+  "run_time_et": "2026-06-10 15:35",
+  "generated_utc": "2026-06-10T19:35:19.846613+00:00",
   "data_source": "polygon.io",
   "timeframe": "30m",
-  "signal_count": 10,
-  "api_calls_used": 450,
+  "signal_count": 1,
+  "api_calls_used": 446,
   "config": {
     "data": {
       "intraday_timespan": "minute",

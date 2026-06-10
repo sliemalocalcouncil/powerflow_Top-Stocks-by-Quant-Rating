@@ -1,0 +1,2 @@
+﻿ticker,bar_et,scan_key,mode,setup_tags,pass_score,close,pre_clv,post_clv,mf_z,vol_spike,rvol_slot,session_rvol,vwap,dist_vwap_pct,atr_expand,rs_qqq_20,rs_open_qqq,rs_sec_20,wick_ratio,body_ratio,daily_uptrend,daily_ema_stack,intra_uptrend,above_vwap,breakout,orb_break,vwap_reclaim,pmh_break,first_pullback,squeeze_release,sector
+RAMP,2026-06-10 14:30,RAMP|2026-06-10 14:30,SQUEEZE_POP,NR7,10.569,37.575,-0.7677,-0.2762,0.486,1.791,1.558,0.516,37.5921,-0.05,1.502,0.0066,0.0168,0,0.406,0.531,True,True,True,False,False,False,False,False,False,False,UNKNOWN
