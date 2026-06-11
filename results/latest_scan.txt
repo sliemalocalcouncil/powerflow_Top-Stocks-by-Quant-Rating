@@ -1,5 +1,10 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-11 12:56 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-06-11 15:37 ET =====
 ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  LQDA 2026-06-11 11:30  SQUEEZE_POP   ORB, NR7 UNKNOWN  69.8250      14.325 -0.420      1.967         1.508       0.0490
-  CRDO 2026-06-11 11:30 CONTINUATION      1stPB UNKNOWN 258.9605      10.576 -0.241      0.942         1.170       0.0642
-   STM 2026-06-11 11:30 CONTINUATION      1stPB UNKNOWN  74.8500       9.593  0.100      0.535         1.101       0.0125
+  ENVA 2026-06-11 15:00 CONTINUATION         HH UNKNOWN 187.2750      17.308  1.127      3.822         2.795       0.0136
+   STT 2026-06-11 14:30         BOTH   ORB, BOX UNKNOWN 164.4300      15.151  1.859      2.252         1.507      -0.0026
+  LQDA 2026-06-11 15:00  STRONG_CONT        BOX UNKNOWN  72.1600      14.671  1.344      1.582         1.913       0.0660
+  BPOP 2026-06-11 14:30 CONTINUATION   ORB, BOX UNKNOWN 158.8100      14.322  2.361      1.490         1.434      -0.0039
+  EWBC 2026-06-11 14:30 CONTINUATION      1stPB UNKNOWN 129.8200      11.072  1.738      1.512         0.991      -0.0066
+  TIGO 2026-06-11 15:00 CONTINUATION      1stPB UNKNOWN  93.0150       9.566 -0.377      0.912         1.124       0.0169
+    RF 2026-06-11 15:00  STRONG_CONT      1stPB UNKNOWN  28.9189       8.698  0.566      0.731         1.174      -0.0094
+   KEY 2026-06-11 14:30 CONTINUATION      1stPB UNKNOWN  22.3250       8.081  0.550      0.625         1.172      -0.0030
