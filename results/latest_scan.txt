@@ -1,3 +1,5 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-10 15:35 ET =====
-ticker           bar_et        mode setup_tags  sector  close  pass_score  mf_z  rvol_slot  session_rvol  rs_open_qqq
-  RAMP 2026-06-10 14:30 SQUEEZE_POP        NR7 UNKNOWN 37.575      10.569 0.486      1.558         0.516       0.0168
+===== PowerFlow Intraday v6 (Trigger)  2026-06-11 12:56 ET =====
+ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
+  LQDA 2026-06-11 11:30  SQUEEZE_POP   ORB, NR7 UNKNOWN  69.8250      14.325 -0.420      1.967         1.508       0.0490
+  CRDO 2026-06-11 11:30 CONTINUATION      1stPB UNKNOWN 258.9605      10.576 -0.241      0.942         1.170       0.0642
+   STM 2026-06-11 11:30 CONTINUATION      1stPB UNKNOWN  74.8500       9.593  0.100      0.535         1.101       0.0125
