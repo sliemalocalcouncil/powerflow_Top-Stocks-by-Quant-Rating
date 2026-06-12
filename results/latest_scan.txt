@@ -1,10 +1,10 @@
-===== PowerFlow Intraday v6 (Trigger)  2026-06-11 15:37 ET =====
+===== PowerFlow Intraday v6 (Trigger)  2026-06-12 12:21 ET =====
 ticker           bar_et         mode setup_tags  sector    close  pass_score   mf_z  rvol_slot  session_rvol  rs_open_qqq
-  ENVA 2026-06-11 15:00 CONTINUATION         HH UNKNOWN 187.2750      17.308  1.127      3.822         2.795       0.0136
-   STT 2026-06-11 14:30         BOTH   ORB, BOX UNKNOWN 164.4300      15.151  1.859      2.252         1.507      -0.0026
-  LQDA 2026-06-11 15:00  STRONG_CONT        BOX UNKNOWN  72.1600      14.671  1.344      1.582         1.913       0.0660
-  BPOP 2026-06-11 14:30 CONTINUATION   ORB, BOX UNKNOWN 158.8100      14.322  2.361      1.490         1.434      -0.0039
-  EWBC 2026-06-11 14:30 CONTINUATION      1stPB UNKNOWN 129.8200      11.072  1.738      1.512         0.991      -0.0066
-  TIGO 2026-06-11 15:00 CONTINUATION      1stPB UNKNOWN  93.0150       9.566 -0.377      0.912         1.124       0.0169
-    RF 2026-06-11 15:00  STRONG_CONT      1stPB UNKNOWN  28.9189       8.698  0.566      0.731         1.174      -0.0094
-   KEY 2026-06-11 14:30 CONTINUATION      1stPB UNKNOWN  22.3250       8.081  0.550      0.625         1.172      -0.0030
+   PBI 2026-06-12 11:30 CONTINUATION      1stPB UNKNOWN  17.4650      16.206  2.164      3.018         1.593       0.0161
+  EWBC 2026-06-12 11:00  STRONG_CONT      1stPB UNKNOWN 132.6250      12.498  1.243      1.740         1.222       0.0003
+   AMD 2026-06-12 11:30  SQUEEZE_POP        NR7   SEMIS 505.6742      10.131 -1.685      1.131         1.103       0.0092
+  CHRW 2026-06-12 11:00  STRONG_CONT      1stPB UNKNOWN 194.3000       9.500  0.920      0.724         0.792      -0.0141
+  IBKR 2026-06-12 11:30  SQUEEZE_POP        NR7 UNKNOWN  91.0200       8.337 -1.342      0.861         1.105       0.0035
+  VSAT 2026-06-12 11:30  SQUEEZE_POP        NR7 UNKNOWN  70.6450       7.812 -1.402      1.566         1.607      -0.0657
+  FLEX 2026-06-12 11:30  SQUEEZE_POP        NR7 UNKNOWN 149.2350       7.170 -2.025      1.253         0.877      -0.0057
+  NBIS 2026-06-12 11:30  SQUEEZE_POP        NR7 UNKNOWN 228.4501       6.138 -1.484      1.156         0.974      -0.0293
